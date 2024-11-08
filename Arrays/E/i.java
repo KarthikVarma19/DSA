@@ -24,7 +24,7 @@ public class i {
         for (int j = 0; j < arr2.length; j++) {
             hm.put(arr2[j], hm.getOrDefault(arr2[j], 0) + 1);
         }
-        for (int each : hm.keySet()) {ß
+        for (int each : hm.keySet()) {
             ans.add(each);
         }
         for (int i = 0; i < ans.size(); i++) {
