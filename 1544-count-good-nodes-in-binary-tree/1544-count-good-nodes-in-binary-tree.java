@@ -15,20 +15,18 @@
  */
 class Solution {
     public int goodNodes(TreeNode root) {
-        int count[] = {0};
         int pathMax = root.val;
-        getGoodNodes(root,pathMax,count);
-        return count[0];
+        return getGoodNodes(root,pathMax);
     }
-    public void getGoodNodes(TreeNode root,int pathMax,int count[]){
+    public int getGoodNodes(TreeNode root,int pathMax){
         if(root == null){
-            return;
+            return 0;
         }
         pathMax = Math.max(pathMax,root.val);
         if(pathMax == root.val){
-            count[0]++;
+            return 1 + getGoodNodes(root.left,pathMax)+ getGoodNodes(root.right,pathMax);
         }
-        getGoodNodes(root.left,pathMax,count);
-        getGoodNodes(root.right,pathMax,count);
+        return getGoodNodes(root.left,pathMax)+ getGoodNodes(root.right,pathMax);
+        
     }
 }
