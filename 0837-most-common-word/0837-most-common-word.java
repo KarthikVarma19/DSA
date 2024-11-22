@@ -4,7 +4,7 @@ class Solution {
         for(String each: banned){
             ban.add(each);
         }
-        String words[] = para.split("[ !?',;.]");
+        String words[] = para.split("[ ''!?',;.]");
         HashMap<String,Integer> hm = new HashMap<>();
         String common = "";
         int max = 0;
