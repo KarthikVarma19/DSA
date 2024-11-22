@@ -6,6 +6,7 @@ Data Structures &amp; Algorithms
 ## Array
 |  |
 | ------- |
+| [0837-most-common-word](https://github.com/KarthikVarma19/DSA/tree/master/0837-most-common-word) |
 | [1582-design-browser-history](https://github.com/KarthikVarma19/DSA/tree/master/1582-design-browser-history) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KarthikVarma19/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Linked List
@@ -56,11 +57,13 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KarthikVarma19/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0837-most-common-word](https://github.com/KarthikVarma19/DSA/tree/master/0837-most-common-word) |
 | [2427-first-letter-to-appear-twice](https://github.com/KarthikVarma19/DSA/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KarthikVarma19/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0837-most-common-word](https://github.com/KarthikVarma19/DSA/tree/master/0837-most-common-word) |
 | [2427-first-letter-to-appear-twice](https://github.com/KarthikVarma19/DSA/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -70,6 +73,7 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KarthikVarma19/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0837-most-common-word](https://github.com/KarthikVarma19/DSA/tree/master/0837-most-common-word) |
 | [2427-first-letter-to-appear-twice](https://github.com/KarthikVarma19/DSA/tree/master/2427-first-letter-to-appear-twice) |
 ## Queue
 |  |
