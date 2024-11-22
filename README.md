@@ -86,4 +86,5 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/KarthikVarma19/DSA/tree/master/0197-rising-temperature) |
+| [1415-students-and-examinations](https://github.com/KarthikVarma19/DSA/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->
