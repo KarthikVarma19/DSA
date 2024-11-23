@@ -8,6 +8,7 @@ Data Structures &amp; Algorithms
 | ------- |
 | [0837-most-common-word](https://github.com/KarthikVarma19/DSA/tree/master/0837-most-common-word) |
 | [1582-design-browser-history](https://github.com/KarthikVarma19/DSA/tree/master/1582-design-browser-history) |
+| [1972-rotating-the-box](https://github.com/KarthikVarma19/DSA/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KarthikVarma19/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KarthikVarma19/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Linked List
@@ -49,6 +50,7 @@ Data Structures &amp; Algorithms
 ## Matrix
 |  |
 | ------- |
+| [1972-rotating-the-box](https://github.com/KarthikVarma19/DSA/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KarthikVarma19/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
 |  |
@@ -87,4 +89,8 @@ Data Structures &amp; Algorithms
 | ------- |
 | [0197-rising-temperature](https://github.com/KarthikVarma19/DSA/tree/master/0197-rising-temperature) |
 | [1415-students-and-examinations](https://github.com/KarthikVarma19/DSA/tree/master/1415-students-and-examinations) |
+## Two Pointers
+|  |
+| ------- |
+| [1972-rotating-the-box](https://github.com/KarthikVarma19/DSA/tree/master/1972-rotating-the-box) |
 <!---LeetCode Topics End-->
