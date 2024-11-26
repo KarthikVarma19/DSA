@@ -96,4 +96,8 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [1972-rotating-the-box](https://github.com/KarthikVarma19/DSA/tree/master/1972-rotating-the-box) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/KarthikVarma19/DSA/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
