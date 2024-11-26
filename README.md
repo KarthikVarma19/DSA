@@ -9,6 +9,7 @@ Data Structures &amp; Algorithms
 | [0787-sliding-puzzle](https://github.com/KarthikVarma19/DSA/tree/master/0787-sliding-puzzle) |
 | [0837-most-common-word](https://github.com/KarthikVarma19/DSA/tree/master/0837-most-common-word) |
 | [1582-design-browser-history](https://github.com/KarthikVarma19/DSA/tree/master/1582-design-browser-history) |
+| [1755-defuse-the-bomb](https://github.com/KarthikVarma19/DSA/tree/master/1755-defuse-the-bomb) |
 | [1972-rotating-the-box](https://github.com/KarthikVarma19/DSA/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KarthikVarma19/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3188-find-champion-i](https://github.com/KarthikVarma19/DSA/tree/master/3188-find-champion-i) |
@@ -102,4 +103,8 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/KarthikVarma19/DSA/tree/master/3189-find-champion-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1755-defuse-the-bomb](https://github.com/KarthikVarma19/DSA/tree/master/1755-defuse-the-bomb) |
 <!---LeetCode Topics End-->
