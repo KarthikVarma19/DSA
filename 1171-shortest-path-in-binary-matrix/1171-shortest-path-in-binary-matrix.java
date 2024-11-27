@@ -13,7 +13,7 @@ class Solution {
         int n = grid.length;
         int distance[][] = new int[n][n];
         if(grid[0][0] == 1 || grid[n-1][n-1] == 1) return -1;
-        Queue<pair> q = new LinkedList<>();
+        PriorityQueue<pair> q = new PriorityQueue<>((a,b) -> a.distance-b.distance);
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
                 distance[i][j] = (int)(1e9);
