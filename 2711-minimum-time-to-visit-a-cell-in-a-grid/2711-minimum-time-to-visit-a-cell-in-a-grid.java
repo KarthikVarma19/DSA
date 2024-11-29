@@ -14,9 +14,8 @@ class Solution {
         //Initial Configuration for dijikstra's algorithm 
         int n = grid.length, m = grid[0].length;
         int visited[][] = new int[n][m];
-        System.out.println(n + " " + m);
         //min-heap
-        PriorityQueue<tuple> pq = new PriorityQueue<>((a,b) -> a.time - b.time);
+        PriorityQueue<tuple> pq = new PriorityQueue<>((a,b) -> a.time-b.time);
         pq.add(new tuple(0,0,0));
         //Up,down,left,right;
         int directions[][] = {{0,1},{1,0},{-1,0},{0,-1}};
