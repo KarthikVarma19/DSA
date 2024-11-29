@@ -15,6 +15,7 @@ Data Structures &amp; Algorithms
 | [1972-rotating-the-box](https://github.com/KarthikVarma19/DSA/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KarthikVarma19/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarthikVarma19/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarthikVarma19/DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3188-find-champion-i](https://github.com/KarthikVarma19/DSA/tree/master/3188-find-champion-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KarthikVarma19/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Linked List
@@ -54,6 +55,7 @@ Data Structures &amp; Algorithms
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/KarthikVarma19/DSA/tree/master/1753-path-with-minimum-effort) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarthikVarma19/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarthikVarma19/DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -67,6 +69,7 @@ Data Structures &amp; Algorithms
 | [1972-rotating-the-box](https://github.com/KarthikVarma19/DSA/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KarthikVarma19/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarthikVarma19/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarthikVarma19/DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3188-find-champion-i](https://github.com/KarthikVarma19/DSA/tree/master/3188-find-champion-i) |
 ## Simulation
 |  |
@@ -113,6 +116,7 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarthikVarma19/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarthikVarma19/DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/KarthikVarma19/DSA/tree/master/3189-find-champion-ii) |
 ## Sliding Window
 |  |
@@ -131,8 +135,10 @@ Data Structures &amp; Algorithms
 | ------- |
 | [1753-path-with-minimum-effort](https://github.com/KarthikVarma19/DSA/tree/master/1753-path-with-minimum-effort) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarthikVarma19/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarthikVarma19/DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarthikVarma19/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarthikVarma19/DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 <!---LeetCode Topics End-->
