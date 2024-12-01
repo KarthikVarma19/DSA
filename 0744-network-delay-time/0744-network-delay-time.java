@@ -17,14 +17,15 @@ class Solution {
     }
     public int networkDelayTime(int[][] times, int n, int k) {
         ArrayList<ArrayList<adjNode>> adj = new ArrayList<>();
-        for(int i=0;i<=n;i++) adj.add(new ArrayList<>());
+        int timeTaken[] = new int[n+1];
+        for(int i=0;i<=n;i++) {
+            timeTaken[i] = (int)(1e9);
+            adj.add(new ArrayList<>());
+        }
         for(int each[]: times){
             int u = each[0], v = each[1], w = each[2];
             adj.get(u).add(new adjNode(v,w));
         }
-        //Dijikstra's Configuration 
-        int timeTaken[] = new int[n+1];
-        for(int i=0;i<=n;i++) timeTaken[i] = (int)(1e9);
         Queue<pair> q = new LinkedList<>();
         q.add(new pair(0,k));
         timeTaken[k] = 0;
