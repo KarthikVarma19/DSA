@@ -1,16 +1,12 @@
 class Solution {
-    public boolean canMakeSubsequence(String str, String str1) {
-        int i = 0, j = 0;
-        while(i<str.length() && j< str1.length()){
-            if(
-            (str.charAt(i) == str1.charAt(j)) || 
-            ((str.charAt(i) + 1) == str1.charAt(j)) ||
-            ((str.charAt(i) - 25) == str1.charAt(j)) 
-            ){
-                j++;
+    public boolean canMakeSubsequence(String source, String target) {
+         int targetIdx = 0, targetLen = target.length();
+        
+        for (char currChar : source.toCharArray()) {
+            if (targetIdx < targetLen && (target.charAt(targetIdx) - currChar + 26) % 26 <= 1) {
+                targetIdx++;
             }
-            i++;
         }
-        return j==str1.length();
+        return targetIdx == targetLen;
     }
 }
