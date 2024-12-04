@@ -104,6 +104,7 @@ Data Structures &amp; Algorithms
 | [2292-counting-words-with-a-given-prefix](https://github.com/KarthikVarma19/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/KarthikVarma19/DSA/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/KarthikVarma19/DSA/tree/master/2427-first-letter-to-appear-twice) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/KarthikVarma19/DSA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -131,6 +132,7 @@ Data Structures &amp; Algorithms
 | [1972-rotating-the-box](https://github.com/KarthikVarma19/DSA/tree/master/1972-rotating-the-box) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/KarthikVarma19/DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/KarthikVarma19/DSA/tree/master/2232-adding-spaces-to-a-string) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/KarthikVarma19/DSA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Graph
 |  |
 | ------- |
