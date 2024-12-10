@@ -116,6 +116,7 @@ Data Structures &amp; Algorithms
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/KarthikVarma19/DSA/tree/master/0371-sum-of-two-integers) |
 | [2427-first-letter-to-appear-twice](https://github.com/KarthikVarma19/DSA/tree/master/2427-first-letter-to-appear-twice) |
 ## Counting
 |  |
@@ -207,4 +208,8 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarthikVarma19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/KarthikVarma19/DSA/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
