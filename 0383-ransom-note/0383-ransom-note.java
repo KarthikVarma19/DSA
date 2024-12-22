@@ -1,5 +1,8 @@
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
+        if (ransomNote.length() > magazine.length()) {
+            return false;
+        }
         int freq[] = new int[26];
         for(int i=0;i<magazine.length();i++){
             char cur = magazine.charAt(i);
