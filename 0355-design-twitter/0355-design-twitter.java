@@ -69,10 +69,11 @@ class Twitter {
         List<Integer> feed = new ArrayList<>();
         int index = 0;
         while(!pq.isEmpty() && index<10){
-            feed.add(0,pq.peek().tweetId);
+            feed.add(pq.peek().tweetId);
             pq.remove();
             index++;
         }
+        Collections.reverse(feed);
         return feed;
 
     }
