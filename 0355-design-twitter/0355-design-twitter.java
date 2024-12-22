@@ -6,8 +6,9 @@ class Twitter {
             timeStamp = ts;
             tweetId = tid;
         }
+        //Mainating Min Heap To Get Recent or Top 10 
         public int compareTo(Tweet that){
-            return that.timeStamp-this.timeStamp;
+            return this.timeStamp-that.timeStamp;
         }
     }
     class User{
@@ -56,6 +57,9 @@ class Twitter {
             int count = 0;
             for(Tweet tweet: userMap.get(follower).tweets){
                 pq.offer(tweet);
+                if(pq.size() > 10){
+                    pq.remove();
+                }
                 count++;
                 if(count>10){
                     break;
@@ -65,7 +69,7 @@ class Twitter {
         List<Integer> feed = new ArrayList<>();
         int index = 0;
         while(!pq.isEmpty() && index<10){
-            feed.add(pq.peek().tweetId);
+            feed.add(0,pq.peek().tweetId);
             pq.remove();
             index++;
         }
