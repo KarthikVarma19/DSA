@@ -10,6 +10,7 @@ Data Structures &amp; Algorithms
 | [0787-sliding-puzzle](https://github.com/KarthikVarma19/DSA/tree/master/0787-sliding-puzzle) |
 | [0837-most-common-word](https://github.com/KarthikVarma19/DSA/tree/master/0837-most-common-word) |
 | [0948-sort-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/KarthikVarma19/DSA/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/KarthikVarma19/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KarthikVarma19/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/KarthikVarma19/DSA/tree/master/1582-design-browser-history) |
@@ -193,6 +194,7 @@ Data Structures &amp; Algorithms
 | [0789-kth-largest-element-in-a-stream](https://github.com/KarthikVarma19/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/KarthikVarma19/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/KarthikVarma19/DSA/tree/master/1127-last-stone-weight) |
 | [1753-path-with-minimum-effort](https://github.com/KarthikVarma19/DSA/tree/master/1753-path-with-minimum-effort) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarthikVarma19/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KarthikVarma19/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
