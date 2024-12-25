@@ -1,8 +1,9 @@
 class Node{
-    Node links[] = new Node[26];
-    boolean flag = false;
+    Node links[];
+    boolean flag;
     public Node(){
-
+        links = new Node[26];
+        flag = false;
     }
     boolean containsKey(char ch){
         return (links[ch-'a'] != null);
@@ -28,8 +29,7 @@ class Trie {
     
     public void insert(String word) {
         Node node = root;
-        for(int i=0;i<word.length();i++){
-            char ch = word.charAt(i);
+        for(char ch: word.toCharArray()){
             if(!node.containsKey(ch)){
                 node.put(ch,new Node());
             }
@@ -40,8 +40,7 @@ class Trie {
     
     public boolean search(String word) {
         Node node = root;
-        for(int i=0;i<word.length();i++){
-            char ch = word.charAt(i);
+        for(char ch: word.toCharArray()){
             if(!node.containsKey(ch)){
                 return false;
             }
@@ -52,8 +51,7 @@ class Trie {
     
     public boolean startsWith(String prefix) {
         Node node = root;
-        for(int i=0;i<prefix.length();i++){
-            char ch = prefix.charAt(i);
+        for(char ch: prefix.toCharArray()){
             if(!node.containsKey(ch)){
                 return false;
             }
