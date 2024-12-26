@@ -9,9 +9,6 @@ class Solution {
             if(hm.containsKey(2 * num) && i != hm.get(2 * num)){
                 return true;
             }
-            if(num == 0 && hm.get(num) > 1){
-                return true;
-            }
         }
         return false;
     }
