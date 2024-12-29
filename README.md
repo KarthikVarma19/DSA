@@ -6,6 +6,7 @@ Data Structures &amp; Algorithms
 ## Array
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0502-ipo](https://github.com/KarthikVarma19/DSA/tree/master/0502-ipo) |
 | [0566-reshape-the-matrix](https://github.com/KarthikVarma19/DSA/tree/master/0566-reshape-the-matrix) |
 | [0787-sliding-puzzle](https://github.com/KarthikVarma19/DSA/tree/master/0787-sliding-puzzle) |
@@ -128,6 +129,7 @@ Data Structures &amp; Algorithms
 | [0355-design-twitter](https://github.com/KarthikVarma19/DSA/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/KarthikVarma19/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KarthikVarma19/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0837-most-common-word](https://github.com/KarthikVarma19/DSA/tree/master/0837-most-common-word) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarthikVarma19/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2427-first-letter-to-appear-twice](https://github.com/KarthikVarma19/DSA/tree/master/2427-first-letter-to-appear-twice) |
@@ -152,6 +154,7 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/KarthikVarma19/DSA/tree/master/0371-sum-of-two-integers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/KarthikVarma19/DSA/tree/master/2427-first-letter-to-appear-twice) |
 ## Counting
 |  |
@@ -305,4 +308,5 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/KarthikVarma19/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
