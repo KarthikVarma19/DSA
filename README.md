@@ -53,6 +53,7 @@ Data Structures &amp; Algorithms
 | [0295-find-median-from-data-stream](https://github.com/KarthikVarma19/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/KarthikVarma19/DSA/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KarthikVarma19/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1023-time-based-key-value-store](https://github.com/KarthikVarma19/DSA/tree/master/1023-time-based-key-value-store) |
 | [1582-design-browser-history](https://github.com/KarthikVarma19/DSA/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -134,6 +135,7 @@ Data Structures &amp; Algorithms
 | [0387-first-unique-character-in-a-string](https://github.com/KarthikVarma19/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0837-most-common-word](https://github.com/KarthikVarma19/DSA/tree/master/0837-most-common-word) |
+| [1023-time-based-key-value-store](https://github.com/KarthikVarma19/DSA/tree/master/1023-time-based-key-value-store) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarthikVarma19/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2427-first-letter-to-appear-twice](https://github.com/KarthikVarma19/DSA/tree/master/2427-first-letter-to-appear-twice) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarthikVarma19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -146,6 +148,7 @@ Data Structures &amp; Algorithms
 | [0383-ransom-note](https://github.com/KarthikVarma19/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KarthikVarma19/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/KarthikVarma19/DSA/tree/master/0837-most-common-word) |
+| [1023-time-based-key-value-store](https://github.com/KarthikVarma19/DSA/tree/master/1023-time-based-key-value-store) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KarthikVarma19/DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/KarthikVarma19/DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/KarthikVarma19/DSA/tree/master/2232-adding-spaces-to-a-string) |
@@ -206,6 +209,7 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/KarthikVarma19/DSA/tree/master/0074-search-a-2d-matrix) |
+| [1023-time-based-key-value-store](https://github.com/KarthikVarma19/DSA/tree/master/1023-time-based-key-value-store) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarthikVarma19/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1753-path-with-minimum-effort](https://github.com/KarthikVarma19/DSA/tree/master/1753-path-with-minimum-effort) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarthikVarma19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
