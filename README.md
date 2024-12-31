@@ -50,6 +50,7 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/KarthikVarma19/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/KarthikVarma19/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/KarthikVarma19/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/KarthikVarma19/DSA/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KarthikVarma19/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -76,6 +77,7 @@ Data Structures &amp; Algorithms
 ## Depth-First Search
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/KarthikVarma19/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KarthikVarma19/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0744-network-delay-time](https://github.com/KarthikVarma19/DSA/tree/master/0744-network-delay-time) |
@@ -145,6 +147,7 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/KarthikVarma19/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/KarthikVarma19/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0383-ransom-note](https://github.com/KarthikVarma19/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KarthikVarma19/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/KarthikVarma19/DSA/tree/master/0837-most-common-word) |
@@ -317,6 +320,7 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/KarthikVarma19/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/KarthikVarma19/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/KarthikVarma19/DSA/tree/master/1826-maximum-xor-with-an-element-from-array) |
 <!---LeetCode Topics End-->
