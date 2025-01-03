@@ -11,6 +11,7 @@ Data Structures &amp; Algorithms
 | [0502-ipo](https://github.com/KarthikVarma19/DSA/tree/master/0502-ipo) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/KarthikVarma19/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0566-reshape-the-matrix](https://github.com/KarthikVarma19/DSA/tree/master/0566-reshape-the-matrix) |
+| [0724-find-pivot-index](https://github.com/KarthikVarma19/DSA/tree/master/0724-find-pivot-index) |
 | [0787-sliding-puzzle](https://github.com/KarthikVarma19/DSA/tree/master/0787-sliding-puzzle) |
 | [0837-most-common-word](https://github.com/KarthikVarma19/DSA/tree/master/0837-most-common-word) |
 | [0948-sort-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0948-sort-an-array) |
@@ -347,6 +348,7 @@ Data Structures &amp; Algorithms
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/KarthikVarma19/DSA/tree/master/0724-find-pivot-index) |
 | [2358-number-of-ways-to-split-array](https://github.com/KarthikVarma19/DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/KarthikVarma19/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
