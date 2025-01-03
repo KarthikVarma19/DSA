@@ -28,6 +28,7 @@ Data Structures &amp; Algorithms
 | [2292-counting-words-with-a-given-prefix](https://github.com/KarthikVarma19/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/KarthikVarma19/DSA/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KarthikVarma19/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2358-number-of-ways-to-split-array](https://github.com/KarthikVarma19/DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarthikVarma19/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarthikVarma19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/KarthikVarma19/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -346,5 +347,6 @@ Data Structures &amp; Algorithms
 ## Prefix Sum
 |  |
 | ------- |
+| [2358-number-of-ways-to-split-array](https://github.com/KarthikVarma19/DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/KarthikVarma19/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
