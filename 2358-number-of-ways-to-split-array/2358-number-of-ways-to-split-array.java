@@ -1,14 +1,16 @@
 class Solution {
     public int waysToSplitArray(int[] nums) {
         int n = nums.length;
-        long prefix[] = new long[n];
-        prefix[0] = nums[0];
-        for(int i=1;i<n;i++){
-            prefix[i] = prefix[i-1] + nums[i];
+        long leftSum = 0, rightSum = 0;
+
+        for(int num: nums){
+            rightSum += num;
         }
         int ways = 0;
         for(int i=0;i<n-1;i++){
-            if(prefix[i] >= (prefix[n-1] - prefix[i])) ways++;
+            leftSum += nums[i];
+            rightSum -= nums[i];
+            if(leftSum >= rightSum) ways++;
         }
         return ways;
     }
