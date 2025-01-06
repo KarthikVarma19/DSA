@@ -1,22 +1,27 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
-        boolean mark[] = new boolean[nums.length];
-        permutation(nums,mark,ans,new ArrayList<>());
+        List<List<Integer>> ans= new ArrayList<>();
+        recuPermute(ans,nums,0);
         return ans;
     }
-    public void permutation(int nums[], boolean mark[], List<List<Integer>> ans, ArrayList<Integer> p){
-        for(int i=0;i<nums.length;i++){
-            if(mark[i] == false){
-                p.add(nums[i]);
-                mark[i] = true;
-                permutation(nums,mark,ans,p);
-                p.remove(p.size()-1);
-                mark[i] = false;
+    private void recuPermute(List<List<Integer>> ans, int[] nums, int index){
+        if(index == nums.length){
+            List<Integer> temp = new ArrayList<>();
+            for (int num : nums) {
+                temp.add(num);
             }
+            ans.add(temp);
+            return;
         }
-        if(p.size() == nums.length){
-            ans.add(new ArrayList<Integer>(p));
+        for(int i=index;i<nums.length;i++){
+            swap(nums,index,i);
+            recuPermute(ans, nums, index+1);
+            swap(nums,i,index);
         }
+    }
+    private void swap(int nums[], int i, int j){
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
     }
 }
