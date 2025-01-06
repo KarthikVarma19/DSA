@@ -8,6 +8,7 @@ Data Structures &amp; Algorithms
 | ------- |
 | [0046-permutations](https://github.com/KarthikVarma19/DSA/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/KarthikVarma19/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0303-range-sum-query-immutable](https://github.com/KarthikVarma19/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0502-ipo](https://github.com/KarthikVarma19/DSA/tree/master/0502-ipo) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/KarthikVarma19/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -58,6 +59,7 @@ Data Structures &amp; Algorithms
 | [0208-implement-trie-prefix-tree](https://github.com/KarthikVarma19/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/KarthikVarma19/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/KarthikVarma19/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/KarthikVarma19/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/KarthikVarma19/DSA/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KarthikVarma19/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/KarthikVarma19/DSA/tree/master/1023-time-based-key-value-store) |
@@ -351,6 +353,7 @@ Data Structures &amp; Algorithms
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/KarthikVarma19/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/KarthikVarma19/DSA/tree/master/0724-find-pivot-index) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KarthikVarma19/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/KarthikVarma19/DSA/tree/master/2358-number-of-ways-to-split-array) |
