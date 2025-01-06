@@ -6,6 +6,7 @@ Data Structures &amp; Algorithms
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/KarthikVarma19/DSA/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/KarthikVarma19/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0502-ipo](https://github.com/KarthikVarma19/DSA/tree/master/0502-ipo) |
@@ -354,4 +355,8 @@ Data Structures &amp; Algorithms
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KarthikVarma19/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/KarthikVarma19/DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/KarthikVarma19/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/KarthikVarma19/DSA/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
