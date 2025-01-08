@@ -14,7 +14,7 @@ class Solution {
         for(String word: words){
             TrieNode node = root;
             for(int i = 0, n = word.length(); i < n; i++){
-                int key = word.charAt(i) << hash + word.charAt(n-i-1);
+                int key = word.charAt(i) * hash + word.charAt(n-i-1);
                 if(!node.links.containsKey(key)){
                     node.links.put(key, new TrieNode());
                 }
