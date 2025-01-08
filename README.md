@@ -52,6 +52,7 @@ Data Structures &amp; Algorithms
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/KarthikVarma19/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/KarthikVarma19/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/KarthikVarma19/DSA/tree/master/0355-design-twitter) |
 | [0908-middle-of-the-linked-list](https://github.com/KarthikVarma19/DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -380,6 +381,7 @@ Data Structures &amp; Algorithms
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/KarthikVarma19/DSA/tree/master/0206-reverse-linked-list) |
 | [0795-k-th-symbol-in-grammar](https://github.com/KarthikVarma19/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 ## Prefix Sum
 |  |
