@@ -1,17 +1,17 @@
 class TrieNode{
-    HashMap<Character,TrieNode> links;
+    TrieNode[] links;
     boolean isEnd;
     TrieNode(){
-        links = new HashMap<>();
+        links = new TrieNode[128];
         isEnd = false;
     }
     void insert(String word, TrieNode root){
         TrieNode node = root;
         for(char ch: word.toCharArray()){
-            if(node.links.get(ch) == null){
-                node.links.put(ch, new TrieNode());
+            if(node.links[ch-'A'] == null){
+                node.links[ch-'A'] = new TrieNode();
             }
-            node = node.links.get(ch);
+            node = node.links[ch-'A'];
         }
         node.isEnd = true;
     }
@@ -19,8 +19,8 @@ class TrieNode{
     boolean match(TrieNode root, String word){
         TrieNode node = root;
         for(char ch: word.toCharArray()){
-            if(node.links.get(ch) != null){
-                node = node.links.get(ch);
+            if(node.links[ch-'A'] != null){
+                node = node.links[ch-'A'];
             }
             else if(Character.isUpperCase(ch) == true){
                 return false;
