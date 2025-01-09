@@ -39,7 +39,6 @@ class Solution {
         int count = 0;
         for(String each: words){
             if(root.matches(each,root)){
-                System.out.println(each);
                 count += 1;
             }
         }
