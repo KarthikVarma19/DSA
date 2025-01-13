@@ -5,12 +5,12 @@ class Solution {
         for(char ch: s.toCharArray()){
             freq[ch-'a']++;
             len++;
+            //once you found three character in the string then you can remove 2 of them 
             if(freq[ch-'a'] == 3){
-                freq[ch-'a'] = 1;
+                freq[ch-'a'] -= 2;
                 len -= 2;
             }
         }
-
         return len;
     }
 }
