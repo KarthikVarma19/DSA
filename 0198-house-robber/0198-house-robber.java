@@ -2,12 +2,10 @@ class Solution {
 
     public int rob(int[] nums) {
         int n = nums.length;
-        int dp[] = new int[n];
-        Arrays.fill(dp, -1);
-        return t(nums, dp);
+        return so(nums);
     }
 
-    public int t(int[] nums, int dp[]){
+    public int so(int[] nums){
         int n = nums.length;
         int prev2 = 0;
         int prev = nums[0];
