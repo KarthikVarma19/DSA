@@ -2,7 +2,7 @@ class Solution {
     public int minimumLength(String s) {
         int freq[] = new int[26];
         int len = 0;
-        for(char ch: s.toCharArray()){
+        for(byte ch: s.getBytes()){
             freq[ch-'a']++;
             len++;
             //once you found three character in the string then you can remove 2 of them 
