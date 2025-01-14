@@ -48,6 +48,7 @@ Data Structures &amp; Algorithms
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KarthikVarma19/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/KarthikVarma19/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarthikVarma19/DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KarthikVarma19/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3188-find-champion-i](https://github.com/KarthikVarma19/DSA/tree/master/3188-find-champion-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KarthikVarma19/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/KarthikVarma19/DSA/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
@@ -193,6 +194,7 @@ Data Structures &amp; Algorithms
 | [2427-first-letter-to-appear-twice](https://github.com/KarthikVarma19/DSA/tree/master/2427-first-letter-to-appear-twice) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarthikVarma19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/KarthikVarma19/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KarthikVarma19/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KarthikVarma19/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KarthikVarma19/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
@@ -232,6 +234,7 @@ Data Structures &amp; Algorithms
 | [0795-k-th-symbol-in-grammar](https://github.com/KarthikVarma19/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/KarthikVarma19/DSA/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/KarthikVarma19/DSA/tree/master/2427-first-letter-to-appear-twice) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KarthikVarma19/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
