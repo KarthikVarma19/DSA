@@ -1,13 +1,14 @@
 class Solution {
     public int[] findThePrefixCommonArray(int[] A, int[] B) {
         int n = A.length;
-        int freq[] = new int[n+1];
+        long a = 0;
+        long b = 0;
+        long one = 1;
         int ans[] = new int[n];
-        int comCount = 0;
-        for( int i = 0; i < n; i++){
-            if(++freq[A[i]] == 2) comCount++;
-            if(++freq[B[i]] == 2) comCount++;
-            ans[i] = comCount;
+        for(int i=0; i < n ; i++){
+            a |= one << A[i];
+            b |= one << B[i];
+            ans[i] = Long.bitCount(a&b);
         }
         return ans;
     }
