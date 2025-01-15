@@ -51,6 +51,7 @@ Data Structures &amp; Algorithms
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KarthikVarma19/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3188-find-champion-i](https://github.com/KarthikVarma19/DSA/tree/master/3188-find-champion-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KarthikVarma19/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/KarthikVarma19/DSA/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/KarthikVarma19/DSA/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/KarthikVarma19/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KarthikVarma19/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -238,6 +239,7 @@ Data Structures &amp; Algorithms
 | [2427-first-letter-to-appear-twice](https://github.com/KarthikVarma19/DSA/tree/master/2427-first-letter-to-appear-twice) |
 | [2509-minimize-xor](https://github.com/KarthikVarma19/DSA/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KarthikVarma19/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/KarthikVarma19/DSA/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/KarthikVarma19/DSA/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Counting
 |  |
