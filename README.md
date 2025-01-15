@@ -238,6 +238,7 @@ Data Structures &amp; Algorithms
 | [2427-first-letter-to-appear-twice](https://github.com/KarthikVarma19/DSA/tree/master/2427-first-letter-to-appear-twice) |
 | [2509-minimize-xor](https://github.com/KarthikVarma19/DSA/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KarthikVarma19/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/KarthikVarma19/DSA/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Counting
 |  |
 | ------- |
