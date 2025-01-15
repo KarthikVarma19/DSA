@@ -234,6 +234,7 @@ Data Structures &amp; Algorithms
 | [0795-k-th-symbol-in-grammar](https://github.com/KarthikVarma19/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/KarthikVarma19/DSA/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/KarthikVarma19/DSA/tree/master/2427-first-letter-to-appear-twice) |
+| [2509-minimize-xor](https://github.com/KarthikVarma19/DSA/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KarthikVarma19/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Counting
 |  |
@@ -358,6 +359,7 @@ Data Structures &amp; Algorithms
 | [0611-valid-triangle-number](https://github.com/KarthikVarma19/DSA/tree/master/0611-valid-triangle-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/KarthikVarma19/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/KarthikVarma19/DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/KarthikVarma19/DSA/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarthikVarma19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
