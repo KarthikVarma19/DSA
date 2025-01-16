@@ -1,23 +1,21 @@
 class Solution {
     public int xorAllNums(int[] nums1, int[] nums2) {
-        int ans = 0;
+        int x = 0;
+        int y = 0;
+
         int len1 = nums1.length;
         int len2 = nums2.length;
 
         if((len1%2 == 0) && (len1 == len2)) return 0;
 
         for (int i = 0; i < nums1.length; i++){
-            if(len2%2 == 1){
-                ans = ans ^ nums1[i];
-            }
+            x ^= nums1[i];
         }
 
         for( int i = 0; i < nums2.length; i++){
-            if(len1%2 == 1){
-                ans = ans ^ nums2[i];
-            }
+            y ^= nums2[i];
         }
 
-        return ans;
+        return (len1%2 * y) ^ (len2%2 * x);
     }
 }
