@@ -207,6 +207,7 @@ Data Structures &amp; Algorithms
 | [0211-design-add-and-search-words-data-structure](https://github.com/KarthikVarma19/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0383-ransom-note](https://github.com/KarthikVarma19/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KarthikVarma19/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/KarthikVarma19/DSA/tree/master/0392-is-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/KarthikVarma19/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0720-longest-word-in-dictionary](https://github.com/KarthikVarma19/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0837-most-common-word](https://github.com/KarthikVarma19/DSA/tree/master/0837-most-common-word) |
@@ -269,6 +270,7 @@ Data Structures &amp; Algorithms
 | [0142-linked-list-cycle-ii](https://github.com/KarthikVarma19/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KarthikVarma19/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/KarthikVarma19/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/KarthikVarma19/DSA/tree/master/0392-is-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/KarthikVarma19/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0611-valid-triangle-number](https://github.com/KarthikVarma19/DSA/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/KarthikVarma19/DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -343,6 +345,7 @@ Data Structures &amp; Algorithms
 | [0070-climbing-stairs](https://github.com/KarthikVarma19/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/KarthikVarma19/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KarthikVarma19/DSA/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/KarthikVarma19/DSA/tree/master/0392-is-subsequence) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/KarthikVarma19/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KarthikVarma19/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/KarthikVarma19/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
