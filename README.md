@@ -346,6 +346,7 @@ Data Structures &amp; Algorithms
 | [0198-house-robber](https://github.com/KarthikVarma19/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KarthikVarma19/DSA/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/KarthikVarma19/DSA/tree/master/0392-is-subsequence) |
+| [0650-2-keys-keyboard](https://github.com/KarthikVarma19/DSA/tree/master/0650-2-keys-keyboard) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/KarthikVarma19/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KarthikVarma19/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/KarthikVarma19/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -389,6 +390,7 @@ Data Structures &amp; Algorithms
 | [0070-climbing-stairs](https://github.com/KarthikVarma19/DSA/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/KarthikVarma19/DSA/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/KarthikVarma19/DSA/tree/master/0371-sum-of-two-integers) |
+| [0650-2-keys-keyboard](https://github.com/KarthikVarma19/DSA/tree/master/0650-2-keys-keyboard) |
 | [0795-k-th-symbol-in-grammar](https://github.com/KarthikVarma19/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KarthikVarma19/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
