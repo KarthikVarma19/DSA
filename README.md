@@ -43,6 +43,7 @@ Data Structures &amp; Algorithms
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KarthikVarma19/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/KarthikVarma19/DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarthikVarma19/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/KarthikVarma19/DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarthikVarma19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/KarthikVarma19/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KarthikVarma19/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -238,6 +239,7 @@ Data Structures &amp; Algorithms
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/KarthikVarma19/DSA/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/KarthikVarma19/DSA/tree/master/2427-first-letter-to-appear-twice) |
 | [2509-minimize-xor](https://github.com/KarthikVarma19/DSA/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/KarthikVarma19/DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KarthikVarma19/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/KarthikVarma19/DSA/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/KarthikVarma19/DSA/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
@@ -463,4 +465,8 @@ Data Structures &amp; Algorithms
 | ------- |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/KarthikVarma19/DSA/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/KarthikVarma19/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/KarthikVarma19/DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
