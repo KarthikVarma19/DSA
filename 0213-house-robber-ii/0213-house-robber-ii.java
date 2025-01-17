@@ -4,37 +4,67 @@ class Solution {
         if(n == 1){
             return nums[0];
         }
-        int temp1[] = new int[n-1];
-        int temp2[] = new int[n-1];
-        int t1 = 0;
-        for(int i=0;i<n;i++){
+        int nums1[] = new int[n-1];
+        int nums2[] = new int[n-1];
+        for(int i = 0; i < n; i++){
             if(i!=0){
-                temp1[t1++] = nums[i];
+                nums1[i-1] = nums[i];
             }
             if(i!=n-1){
-                temp2[i] = nums[i];
+                nums2[i] = nums[i];
             }
         }
-        int ans1 = so(temp1);
-        int ans2 = so(temp2);
-        return Math.max(ans1, ans2);
+        int dp[] = new int[n];
+        Arrays.fill(dp, -1);
+        int rob1 = f(n-2,nums1, dp);
+        Arrays.fill(dp, -1);
+        int rob2 = f(n-2,nums2, dp);
+        return Math.max(rob1, rob2);
     }
-    public int so(int[] nums){
+    public int f(int ind, int a[], int dp[]){
+        if(ind == 0){
+            return a[0];
+        }
+        if(ind < 1){
+            return 0;
+        }
+        if(dp[ind] != -1){
+            return dp[ind];
+        }
+        int take = a[ind] + f(ind-2, a, dp);
+        int notTake = 0 + f(ind-1, a, dp);
+        return dp[ind] = Math.max(take, notTake);
+    }
+    /*
+    public int rob(int[] nums) {
         int n = nums.length;
-        int prev2 = 0;
-        int prev = nums[0];
-        for(int i=1;i<n;i++){
-            int pick = nums[i];
-            if(i>1){
-                pick += prev2;
-            }
-            int notpick = prev;
-
-            int curi = Math.max(pick, notpick);
-            prev2 = prev;
-            prev = curi;
-
+        if(n == 1){
+            return nums[0];
         }
-        return prev;
+        int nums1[] = new int[n-1];
+        int nums2[] = new int[n-1];
+        for(int i = 0; i < n; i++){
+            if(i!=0){
+                nums1[i-1] = nums[i];
+            }
+            if(i!=n-1){
+                nums2[i] = nums[i];
+            }
+        }
+        int rob1 = f(n-2,nums1);
+        int rob2 = f(n-2,nums2);
+        return Math.max(rob1, rob2);
     }
+    public int f(int ind, int a[]){
+        if(ind == 0){
+            return a[0];
+        }
+        if(ind < 1){
+            return 0;
+        }
+        int take = a[ind] + f(ind-2, a);
+        int notTake = 0 + f(ind-1, a);
+        return Math.max(take, notTake);
+    }
+    */
 }
