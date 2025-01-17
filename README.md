@@ -50,6 +50,7 @@ Data Structures &amp; Algorithms
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/KarthikVarma19/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarthikVarma19/DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KarthikVarma19/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/KarthikVarma19/DSA/tree/master/2792-neighboring-bitwise-xor) |
 | [3188-find-champion-i](https://github.com/KarthikVarma19/DSA/tree/master/3188-find-champion-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KarthikVarma19/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/KarthikVarma19/DSA/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
@@ -242,6 +243,7 @@ Data Structures &amp; Algorithms
 | [2509-minimize-xor](https://github.com/KarthikVarma19/DSA/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/KarthikVarma19/DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KarthikVarma19/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/KarthikVarma19/DSA/tree/master/2792-neighboring-bitwise-xor) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/KarthikVarma19/DSA/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/KarthikVarma19/DSA/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Counting
