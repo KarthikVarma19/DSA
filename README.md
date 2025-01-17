@@ -344,6 +344,7 @@ Data Structures &amp; Algorithms
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/KarthikVarma19/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KarthikVarma19/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/KarthikVarma19/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KarthikVarma19/DSA/tree/master/0213-house-robber-ii) |
@@ -389,6 +390,7 @@ Data Structures &amp; Algorithms
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/KarthikVarma19/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KarthikVarma19/DSA/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/KarthikVarma19/DSA/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/KarthikVarma19/DSA/tree/master/0371-sum-of-two-integers) |
@@ -476,4 +478,8 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/KarthikVarma19/DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/KarthikVarma19/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
