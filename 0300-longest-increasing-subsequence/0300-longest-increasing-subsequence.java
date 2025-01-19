@@ -18,6 +18,6 @@ class Solution {
                 temp.set(pos, num);
             }
         }
-        return len;
+        return temp.size();
     }
 }
