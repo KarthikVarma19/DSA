@@ -22,6 +22,7 @@ Data Structures &amp; Algorithms
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/KarthikVarma19/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0566-reshape-the-matrix](https://github.com/KarthikVarma19/DSA/tree/master/0566-reshape-the-matrix) |
 | [0611-valid-triangle-number](https://github.com/KarthikVarma19/DSA/tree/master/0611-valid-triangle-number) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/KarthikVarma19/DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KarthikVarma19/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0720-longest-word-in-dictionary](https://github.com/KarthikVarma19/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/KarthikVarma19/DSA/tree/master/0724-find-pivot-index) |
