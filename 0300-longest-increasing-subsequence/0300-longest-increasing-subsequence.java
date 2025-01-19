@@ -1,18 +1,23 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
-        int len = 0;
-        for(int num: nums){
-            if(len == 0 || nums[len-1] < num){
-                nums[len++] = num;
+        ArrayList<Integer> temp = new ArrayList<>();
+        temp.add(nums[0]);
+        int len = 1;
+        for(int i = 1; i < nums.length; i++) {
+            int num = nums[i];
+
+            if(num > temp.get(temp.size()-1)){
+                temp.add(num);
+                len++;
             }
             else{
-                int pos = Arrays.binarySearch(nums, 0, len, num);
+                int pos = Collections.binarySearch(temp, num);
                 if(pos < 0){
                     pos = -pos-1;
                 }
-                nums[pos] = num;
+                temp.set(pos, num);
             }
-        }   
+        }
         return len;
     }
 }
