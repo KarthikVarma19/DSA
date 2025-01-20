@@ -6,19 +6,21 @@ class Solution {
         int rowOnes[] = new int[n];
         int colOnes[] = new int[m];
 
-        //traversing col wise 
-        for(int j = 0; j < m; j++){
-            for(int i = 0; i < n; i++){
+        //traversing col wise but computing both rowOnes and colOnes in one for loop 
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < m; j++){
                 rowOnes[i] += grid[i][j];
                 colOnes[j] += grid[i][j];
             }
         }
-        //filling the answer 
+
+        //computing the answer 
         for(int i = 0; i < n; i++){
             for(int j = 0; j < m; j++){
                 ans[i][j] = rowOnes[i] + colOnes[j] -(m-rowOnes[i]) - (n-colOnes[j]);
             }
         }
+
         return ans;
     }
 }
