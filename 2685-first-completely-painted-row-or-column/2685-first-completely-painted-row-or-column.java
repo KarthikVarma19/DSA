@@ -15,22 +15,12 @@ class Solution {
         int rowSum[] = new int[n];
         int colSum[] = new int[m];
         for(int i = 0; i < n; i++){
-            // int sum = 0;
             for(int j = 0; j < m; j++){
-                //sum += mat[i][j];
                 rowSum[i] += mat[i][j];
                 colSum[j] += mat[i][j];
                 hm.put(mat[i][j], new pair(i, j));
             }
-            //rowSum[i] = sum;
         }
-        // for(int j = 0; j <  m; j++){
-        //     int sum = 0;
-        //     for(int i = 0; i < n; i++){
-        //         sum += mat[i][j];
-        //     }
-        //     colSum[j] = sum;
-        // }
 
         for(int i = 0; i < arr.length; i++){
             pair p = hm.get(arr[i]);
