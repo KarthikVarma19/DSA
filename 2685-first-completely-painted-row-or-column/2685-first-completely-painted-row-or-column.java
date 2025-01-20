@@ -10,24 +10,27 @@ class Solution {
     public int firstCompleteIndex(int[] arr, int[][] mat) {
         int n = mat.length;
         int m = mat[0].length;
+        //Pre Processed the elements position in hashamp
         HashMap<Integer,pair> hm = new HashMap<>();
         int rowSum[] = new int[n];
+        int colSum[] = new int[m];
         for(int i = 0; i < n; i++){
-            int sum = 0;
+            // int sum = 0;
             for(int j = 0; j < m; j++){
-                sum += mat[i][j];
+                //sum += mat[i][j];
+                rowSum[i] += mat[i][j];
+                colSum[j] += mat[i][j];
                 hm.put(mat[i][j], new pair(i, j));
             }
-            rowSum[i] = sum;
+            //rowSum[i] = sum;
         }
-        int colSum[] = new int[m];
-        for(int j = 0; j <  m; j++){
-            int sum = 0;
-            for(int i = 0; i < n; i++){
-                sum += mat[i][j];
-            }
-            colSum[j] = sum;
-        }
+        // for(int j = 0; j <  m; j++){
+        //     int sum = 0;
+        //     for(int i = 0; i < n; i++){
+        //         sum += mat[i][j];
+        //     }
+        //     colSum[j] = sum;
+        // }
 
         for(int i = 0; i < arr.length; i++){
             pair p = hm.get(arr[i]);
