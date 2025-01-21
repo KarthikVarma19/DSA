@@ -8,17 +8,21 @@ class Solution {
         }
         temp[c+1] = n;
         Arrays.sort(temp);
-        return f(1, c, temp);
-    }
-    public int f(int i, int j, int cuts[]){
-        if(i>j) return 0;
-        int mini = Integer.MAX_VALUE;
-        for(int ind = i; ind <= j; ind++){
-            int cost = cuts[j+1] - cuts[i-1] + f(i, ind-1, cuts) + f(ind+1, j, cuts);
-            if(cost < mini){
-                mini = cost;
+        int dp[][] = new int[c+2][c+2];
+        for(int i = c; i >= 1; i--){
+            for(int j = 1; j <= c; j++){
+                if(i>j) continue;
+                int mini = Integer.MAX_VALUE;
+                for(int ind = i; ind <= j; ind++){
+                    int cost = temp[j+1] - temp[i-1] + dp[i][ind-1] + dp[ind+1][j];
+                    if(cost < mini){
+                        mini = cost;
+                    }
+                }
+                dp[i][j] = mini;
             }
         }
-        return mini;
+        return dp[1][c];
     }
+    
 }
