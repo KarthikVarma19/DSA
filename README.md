@@ -81,12 +81,14 @@ Data Structures &amp; Algorithms
 | [0908-middle-of-the-linked-list](https://github.com/KarthikVarma19/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/KarthikVarma19/DSA/tree/master/1582-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KarthikVarma19/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/KarthikVarma19/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KarthikVarma19/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/KarthikVarma19/DSA/tree/master/1582-design-browser-history) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/KarthikVarma19/DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/KarthikVarma19/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -298,6 +300,7 @@ Data Structures &amp; Algorithms
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/KarthikVarma19/DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KarthikVarma19/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/KarthikVarma19/DSA/tree/master/2232-adding-spaces-to-a-string) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/KarthikVarma19/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/KarthikVarma19/DSA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Graph
 |  |
