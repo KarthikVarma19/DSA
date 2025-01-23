@@ -5,7 +5,9 @@ class Solution {
         
         //col check
         int preCol[] = new int[m];
+
         int pre[] = new int[n];
+
         for(int j = 0; j < m; j++){
             for(int i = 0; i < n; i++){
                 preCol[j] += grid[i][j];
@@ -28,6 +30,6 @@ class Solution {
 
         return count;
        
-        //TC:- O(n*m) + O(n*m*m) + 
+        //TC:- O(n*m) + O(n*m*m) +
     }
 }
