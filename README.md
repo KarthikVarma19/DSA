@@ -35,6 +35,7 @@ Data Structures &amp; Algorithms
 | [1080-camelcase-matching](https://github.com/KarthikVarma19/DSA/tree/master/1080-camelcase-matching) |
 | [1127-last-stone-weight](https://github.com/KarthikVarma19/DSA/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/KarthikVarma19/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1207-delete-nodes-and-return-forest](https://github.com/KarthikVarma19/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1396-count-servers-that-communicate](https://github.com/KarthikVarma19/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarthikVarma19/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/KarthikVarma19/DSA/tree/master/1524-string-matching-in-an-array) |
@@ -124,6 +125,7 @@ Data Structures &amp; Algorithms
 | [0637-average-of-levels-in-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/KarthikVarma19/DSA/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KarthikVarma19/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1207-delete-nodes-and-return-forest](https://github.com/KarthikVarma19/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1254-deepest-leaves-sum](https://github.com/KarthikVarma19/DSA/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/KarthikVarma19/DSA/tree/master/1731-even-odd-tree) |
@@ -140,6 +142,7 @@ Data Structures &amp; Algorithms
 | [0637-average-of-levels-in-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0744-network-delay-time](https://github.com/KarthikVarma19/DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/KarthikVarma19/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1207-delete-nodes-and-return-forest](https://github.com/KarthikVarma19/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1254-deepest-leaves-sum](https://github.com/KarthikVarma19/DSA/tree/master/1254-deepest-leaves-sum) |
 | [1396-count-servers-that-communicate](https://github.com/KarthikVarma19/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -174,6 +177,7 @@ Data Structures &amp; Algorithms
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KarthikVarma19/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KarthikVarma19/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1207-delete-nodes-and-return-forest](https://github.com/KarthikVarma19/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1254-deepest-leaves-sum](https://github.com/KarthikVarma19/DSA/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/KarthikVarma19/DSA/tree/master/1731-even-odd-tree) |
@@ -219,6 +223,7 @@ Data Structures &amp; Algorithms
 | [0837-most-common-word](https://github.com/KarthikVarma19/DSA/tree/master/0837-most-common-word) |
 | [0952-word-subsets](https://github.com/KarthikVarma19/DSA/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/KarthikVarma19/DSA/tree/master/1023-time-based-key-value-store) |
+| [1207-delete-nodes-and-return-forest](https://github.com/KarthikVarma19/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarthikVarma19/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/KarthikVarma19/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [2104-operations-on-tree](https://github.com/KarthikVarma19/DSA/tree/master/2104-operations-on-tree) |
