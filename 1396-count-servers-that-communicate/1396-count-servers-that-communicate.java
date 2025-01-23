@@ -30,6 +30,6 @@ class Solution {
 
         return count;
        
-        //TC:- O(n*m) + O(n*m*m) +
+        //TC:- O(n*m) + O(n*m)
     }
 }
