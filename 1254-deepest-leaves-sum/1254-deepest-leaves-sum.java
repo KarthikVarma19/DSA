@@ -14,32 +14,25 @@
  * }
  */
 class Solution {
-    class pair{
-        int level;
-        TreeNode t;
-        pair(int level, TreeNode t){
-            this.level = level;
-            this.t = t;
-        }
-    }
     public int deepestLeavesSum(TreeNode root) {
-        Queue<pair> q = new LinkedList<>();
-        q.add(new pair(0, root));
-        
+        Queue<TreeNode> q = new LinkedList<>();
+        q.add(root);
+
         while(!q.isEmpty()){
             int size = q.size();
             int levelSum = 0;
             for(int i = 0; i < size; i++){
-                TreeNode temp = q.peek().t;
-                levelSum += q.peek().t.val;
-                int level = q.peek().level;
+                TreeNode temp = q.peek();
+                levelSum += q.peek().val;
                 q.remove();
+
                 if(temp.left != null){
-                    q.add(new pair(level+1, temp.left));
+                    q.add(temp.left);
                 }
                 if(temp.right != null){
-                    q.add(new pair(level+1, temp.right));
+                    q.add(temp.right);
                 }
+                
             }
             if(q.isEmpty()) return levelSum;
         }
