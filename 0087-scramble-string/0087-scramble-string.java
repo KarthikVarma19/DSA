@@ -26,4 +26,23 @@ class Solution {
         hm.put(key, result);
         return result;
     }
+    /*
+    //Recursive Code Got TLE at 195/290 testcases passed 
+    //Time Complexity:- Exponential
+    //Space Complexity:- Can't be Determeined
+    public boolean isScramble(String s1, String s2) {
+        return f(s1, s2);
+    }
+    public boolean f(String s, String t){
+        if(s.equals(t)) return true;
+        int n = s.length();
+        for(int i = 1; i < n; i++){
+            boolean notswapped = f(s.substring(0, i), t.substring(0, i)) && f(s.substring(i), t.substring(i));
+            if(notswapped) return true;
+            boolean swapped = f(s.substring(0, i), t.substring(n-i)) && f(s.substring(i), t.substring(0, n-i));
+            if(swapped) return true;
+        }
+        return false;
+    }
+    */
 }
