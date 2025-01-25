@@ -77,6 +77,7 @@ Data Structures &amp; Algorithms
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KarthikVarma19/DSA/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/KarthikVarma19/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KarthikVarma19/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/KarthikVarma19/DSA/tree/master/0206-reverse-linked-list) |
@@ -458,6 +459,7 @@ Data Structures &amp; Algorithms
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KarthikVarma19/DSA/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/KarthikVarma19/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KarthikVarma19/DSA/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/KarthikVarma19/DSA/tree/master/0258-add-digits) |
@@ -518,6 +520,7 @@ Data Structures &amp; Algorithms
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KarthikVarma19/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/KarthikVarma19/DSA/tree/master/0206-reverse-linked-list) |
 | [0795-k-th-symbol-in-grammar](https://github.com/KarthikVarma19/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 ## Prefix Sum
