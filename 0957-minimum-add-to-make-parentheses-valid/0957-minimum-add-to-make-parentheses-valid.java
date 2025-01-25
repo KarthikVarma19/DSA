@@ -9,7 +9,6 @@ class Solution {
                 else adds++;
             }
         }
-        
         return open + adds;
     }
 }
