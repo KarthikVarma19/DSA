@@ -1,20 +1,24 @@
 class Solution {
     public int numDecodings(String s) {
         int n = s.length();
-        int dp[] = new int[n+1];
-        dp[n] = 1;
+        int prev1 = 1, prev2 = 0;
         for(int ind = n-1; ind >= 0; ind--){
+            int curi = 0;
             if(s.charAt(ind) == '0'){
-                dp[ind] = 0;
-                continue;
+                curi = 0;
             }
-            int ways = 0;
-            ways += dp[ind+1];
-            if(ind < n-1 && ((s.charAt(ind)-'0') * 10 + (s.charAt(ind+1) - '0'))<27){
-                ways += dp[ind+2];
+            else{
+                int ways = 0;
+                ways += prev1;
+                if(ind < n-1 && ((s.charAt(ind)-'0') * 10 + (s.charAt(ind+1) - '0'))<27){
+                    ways += prev2;
+                }
+                curi = ways;
             }
-            dp[ind] = ways;
+            prev2 = prev1;
+            prev1 = curi;
+            
         }
-        return dp[0];
+        return prev1;
     }
 }
