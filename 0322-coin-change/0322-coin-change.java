@@ -1,26 +1,26 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
         int n = coins.length;
-        long dp[][] = new long[n][amount+1];
+        long dp[] = new long[amount+1];
         for(int am = 0; am <= amount; am++){
             if(am%coins[0] == 0){
-                dp[0][am] = (am / coins[0]);
+                dp[am] = (am / coins[0]);
             }
             else{
-                dp[0][am] = Integer.MAX_VALUE;
+                dp[am] = Integer.MAX_VALUE;
             }  
         }
         for(int ind = 1; ind < n; ind++){
             for(int am = 0; am <= amount; am++){
-                long notTake = dp[ind-1][am];
+                long notTake = dp[am];
                 long take = Integer.MAX_VALUE;
                 if(am >= coins[ind]){
-                    take = 1 + dp[ind][am-coins[ind]];
+                    take = 1 + dp[am-coins[ind]];
                 }
-                dp[ind][am] = Math.min(take, notTake);
+                dp[am] = Math.min(take, notTake);
             }
         }
-        long noOfCoins = dp[n-1][amount];
+        long noOfCoins = dp[amount];
         if(noOfCoins == Integer.MAX_VALUE) return -1;
         return (int)noOfCoins;
     }
