@@ -1,7 +1,7 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
         int n = coins.length;
-        long dp[][] = new long[n][10000];
+        long dp[][] = new long[n][amount+1];
         for(long row[]: dp){
             Arrays.fill(row, -1);
         }
