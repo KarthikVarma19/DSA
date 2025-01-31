@@ -22,6 +22,7 @@ Data Structures &amp; Algorithms
 | [0300-longest-increasing-subsequence](https://github.com/KarthikVarma19/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/KarthikVarma19/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/KarthikVarma19/DSA/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/KarthikVarma19/DSA/tree/master/0403-frog-jump) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0502-ipo](https://github.com/KarthikVarma19/DSA/tree/master/0502-ipo) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/KarthikVarma19/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -429,6 +430,7 @@ Data Structures &amp; Algorithms
 | [0300-longest-increasing-subsequence](https://github.com/KarthikVarma19/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/KarthikVarma19/DSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/KarthikVarma19/DSA/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/KarthikVarma19/DSA/tree/master/0403-frog-jump) |
 | [0650-2-keys-keyboard](https://github.com/KarthikVarma19/DSA/tree/master/0650-2-keys-keyboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KarthikVarma19/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/KarthikVarma19/DSA/tree/master/0747-min-cost-climbing-stairs) |
