@@ -374,6 +374,7 @@ Data Structures &amp; Algorithms
 | [0162-find-peak-element](https://github.com/KarthikVarma19/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KarthikVarma19/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/KarthikVarma19/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0367-valid-perfect-square](https://github.com/KarthikVarma19/DSA/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/KarthikVarma19/DSA/tree/master/0611-valid-triangle-number) |
 | [1023-time-based-key-value-store](https://github.com/KarthikVarma19/DSA/tree/master/1023-time-based-key-value-store) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarthikVarma19/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -492,6 +493,7 @@ Data Structures &amp; Algorithms
 | [0069-sqrtx](https://github.com/KarthikVarma19/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KarthikVarma19/DSA/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/KarthikVarma19/DSA/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/KarthikVarma19/DSA/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/KarthikVarma19/DSA/tree/master/0371-sum-of-two-integers) |
 | [0650-2-keys-keyboard](https://github.com/KarthikVarma19/DSA/tree/master/0650-2-keys-keyboard) |
 | [0795-k-th-symbol-in-grammar](https://github.com/KarthikVarma19/DSA/tree/master/0795-k-th-symbol-in-grammar) |
