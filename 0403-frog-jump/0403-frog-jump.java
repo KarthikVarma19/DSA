@@ -1,7 +1,7 @@
 class Solution {
     public boolean canCross(int[] stones) {
         if(stones[1] != 1) return false;
-        int dp[][] = new int[2001][2001];
+        int dp[][] = new int[stones.length][2001];
         for(int row[]: dp){
             Arrays.fill(row, -1);
         }
