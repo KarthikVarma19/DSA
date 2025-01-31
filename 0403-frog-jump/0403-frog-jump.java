@@ -5,7 +5,7 @@ class Solution {
         for(int row[]: dp){
             Arrays.fill(row, -1);
         }
-        return f(1, 1, stones, dp); 
+        return f(1, 1, stones, dp);
     }
     public boolean f(int i, int k, int stones[], int dp[][]){
         if(i == stones.length-1) return true;
