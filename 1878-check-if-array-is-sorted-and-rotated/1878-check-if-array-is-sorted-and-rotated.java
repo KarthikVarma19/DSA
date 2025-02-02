@@ -1,12 +1,25 @@
 class Solution {
     public boolean check(int[] nums) {
-        int excuses = 0;
+        int n = nums.length;
+        int temp[] = new int[n];
+        for(int r = 0; r <= n; r++){
+            int idx = 0;
+            for(int i = r; i < n; i++){
+                temp[idx++] = nums[i];
+            }
+            for(int i = 0; i < r; i++){
+                temp[idx++] = nums[i];
+            }
+            if(checkSorted(temp) == true) return true;
+        }
+        return false;
+    }
+    public boolean checkSorted(int nums[]){
         for(int i = 1; i < nums.length; i++){
             if(nums[i-1] > nums[i]){
-                excuses += 1;
+                return false;
             }
-        }   
-        if(excuses == 1 && nums[0] >= nums[nums.length-1] || excuses == 0) return true;
-        return false;
+        }
+        return true;
     }
 }
