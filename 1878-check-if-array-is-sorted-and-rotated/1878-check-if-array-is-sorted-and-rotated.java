@@ -1,18 +1,12 @@
 class Solution {
     public boolean check(int[] nums) {
         int n = nums.length;
-        int temp[] = Arrays.copyOf(nums, n);
-        Arrays.sort(temp);
-        for(int r = 0; r <= n; r++){
-            boolean flag = true;
-            for(int i = 0; i < n; i++){
-                if(nums[i] != temp[(i + r) % n]){
-                    flag = false;
-                    break;
-                }
+        int inv = 0;
+        for(int i = 1; i < n; i++){
+            if(nums[i-1] > nums[i]){
+                inv++;
             }
-            if(flag == true) return true;
         }
-        return false;
+        return (inv == 0 || (inv == 1 && nums[0] >= nums[n-1]));
     }
 }
