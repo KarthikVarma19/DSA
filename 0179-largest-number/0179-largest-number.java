@@ -5,7 +5,7 @@ class Solution {
         for(int i = 0; i < n; i++){
             temp[i] = Integer.toString(nums[i]);
         }
-        Arrays.sort(temp, (a,b) -> ((b+a).compareTo(a+b)));
+        Arrays.sort(temp, (a,b) -> ((b + a).compareTo(a+b)));
         StringBuilder sb = new StringBuilder();
         for(int i = 0; i < n; i++){
             sb.append(temp[i]);
