@@ -26,6 +26,7 @@ Data Structures &amp; Algorithms
 | [0403-frog-jump](https://github.com/KarthikVarma19/DSA/tree/master/0403-frog-jump) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0502-ipo](https://github.com/KarthikVarma19/DSA/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/KarthikVarma19/DSA/tree/master/0517-super-washing-machines) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/KarthikVarma19/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0566-reshape-the-matrix](https://github.com/KarthikVarma19/DSA/tree/master/0566-reshape-the-matrix) |
 | [0611-valid-triangle-number](https://github.com/KarthikVarma19/DSA/tree/master/0611-valid-triangle-number) |
@@ -468,6 +469,7 @@ Data Structures &amp; Algorithms
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KarthikVarma19/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0502-ipo](https://github.com/KarthikVarma19/DSA/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/KarthikVarma19/DSA/tree/master/0517-super-washing-machines) |
 | [0611-valid-triangle-number](https://github.com/KarthikVarma19/DSA/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KarthikVarma19/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KarthikVarma19/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
