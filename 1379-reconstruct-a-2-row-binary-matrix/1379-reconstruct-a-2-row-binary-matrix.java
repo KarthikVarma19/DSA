@@ -5,7 +5,7 @@ class Solution {
         ans.add(new ArrayList<Integer>());
         ans.add(new ArrayList<Integer>());
         int setBits = 0;
-        //Urgent Bits Set (For eg: 2colsum's)
+        //First Giving Priority to 2colsum 
         for(int i = 0; i < colsum.length; i++)
         {
             ans.get(0).add(0);
@@ -18,14 +18,18 @@ class Solution {
                 ans.get(1).set(i, 1);
             }
             setBits += colsum[i];
+            if((upper < 0) || (lower < 0)){
+                List<List<Integer>> empty = new ArrayList<>();
+                return empty;
+            }
         }
         //Invalid Case
-        if((upper + lower) != setBits || (upper < 0) || (lower < 0))
+        if((upper + lower) != setBits)
         {
             List<List<Integer>> empty = new ArrayList<>();
             return empty;
         }
-        //Traversing and filling Upper Row
+        //Traversing and filling Upper Row and then Lower Row
         for(int col = 0; col < colsum.length; col++){
             if(upper > 0 && colsum[col] > 0){
                 ans.get(0).set(col, 1);
@@ -39,6 +43,5 @@ class Solution {
             }
         }
         return ans;
-
     }
 }
