@@ -72,6 +72,7 @@ Data Structures &amp; Algorithms
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/KarthikVarma19/DSA/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/KarthikVarma19/DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/KarthikVarma19/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KarthikVarma19/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarthikVarma19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/KarthikVarma19/DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/KarthikVarma19/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -327,6 +328,7 @@ Data Structures &amp; Algorithms
 | [1396-count-servers-that-communicate](https://github.com/KarthikVarma19/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/KarthikVarma19/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/KarthikVarma19/DSA/tree/master/2427-first-letter-to-appear-twice) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KarthikVarma19/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KarthikVarma19/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KarthikVarma19/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Queue
@@ -392,6 +394,7 @@ Data Structures &amp; Algorithms
 | [1023-time-based-key-value-store](https://github.com/KarthikVarma19/DSA/tree/master/1023-time-based-key-value-store) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarthikVarma19/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1753-path-with-minimum-effort](https://github.com/KarthikVarma19/DSA/tree/master/1753-path-with-minimum-effort) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KarthikVarma19/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarthikVarma19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Union Find
 |  |
