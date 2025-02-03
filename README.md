@@ -38,6 +38,7 @@ Data Structures &amp; Algorithms
 | [0747-min-cost-climbing-stairs](https://github.com/KarthikVarma19/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/KarthikVarma19/DSA/tree/master/0787-sliding-puzzle) |
 | [0837-most-common-word](https://github.com/KarthikVarma19/DSA/tree/master/0837-most-common-word) |
+| [0907-koko-eating-bananas](https://github.com/KarthikVarma19/DSA/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/KarthikVarma19/DSA/tree/master/0952-word-subsets) |
 | [1080-camelcase-matching](https://github.com/KarthikVarma19/DSA/tree/master/1080-camelcase-matching) |
@@ -385,6 +386,7 @@ Data Structures &amp; Algorithms
 | [0367-valid-perfect-square](https://github.com/KarthikVarma19/DSA/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/KarthikVarma19/DSA/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/KarthikVarma19/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0907-koko-eating-bananas](https://github.com/KarthikVarma19/DSA/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/KarthikVarma19/DSA/tree/master/1023-time-based-key-value-store) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarthikVarma19/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1753-path-with-minimum-effort](https://github.com/KarthikVarma19/DSA/tree/master/1753-path-with-minimum-effort) |
