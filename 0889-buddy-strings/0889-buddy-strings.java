@@ -3,11 +3,13 @@ class Solution {
         int l1 = s.length();
         int l2 = goal.length();
         if(l1 != l2) return false;
+        //If Both the Strings are Equal
         if(s.equals(goal)){
             Set<Character> st = new HashSet<Character>();
             for(char c: s.toCharArray()) st.add(c);
             return st.size() < s.length();
         }
+        //If Both the Strings are Not Equal
         int firstIndex = 0;
         int secondIndex = 0;
         int diffs = 0;
