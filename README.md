@@ -48,6 +48,7 @@ Data Structures &amp; Algorithms
 | [1127-last-stone-weight](https://github.com/KarthikVarma19/DSA/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/KarthikVarma19/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KarthikVarma19/DSA/tree/master/1207-delete-nodes-and-return-forest) |
+| [1364-tuple-with-same-product](https://github.com/KarthikVarma19/DSA/tree/master/1364-tuple-with-same-product) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/KarthikVarma19/DSA/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/KarthikVarma19/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KarthikVarma19/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -261,6 +262,7 @@ Data Structures &amp; Algorithms
 | [0952-word-subsets](https://github.com/KarthikVarma19/DSA/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/KarthikVarma19/DSA/tree/master/1023-time-based-key-value-store) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KarthikVarma19/DSA/tree/master/1207-delete-nodes-and-return-forest) |
+| [1364-tuple-with-same-product](https://github.com/KarthikVarma19/DSA/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarthikVarma19/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/KarthikVarma19/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KarthikVarma19/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -331,6 +333,7 @@ Data Structures &amp; Algorithms
 | [0383-ransom-note](https://github.com/KarthikVarma19/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KarthikVarma19/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/KarthikVarma19/DSA/tree/master/0837-most-common-word) |
+| [1364-tuple-with-same-product](https://github.com/KarthikVarma19/DSA/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/KarthikVarma19/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/KarthikVarma19/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KarthikVarma19/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
