@@ -12,9 +12,9 @@ class Solution {
         for(long key: hm.keySet()){
             if(hm.get(key) >= 2){
                 int count = hm.get(key);
-                tuples += ((count) * (count-1))/2;
+                tuples += ((count) * (count-1))  * 4;
             }
         }
-        return (tuples * 8);
+        return tuples;
     }
 }
