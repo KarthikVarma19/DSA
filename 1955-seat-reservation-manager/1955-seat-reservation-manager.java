@@ -12,7 +12,7 @@ class SeatManager {
     public int reserve() {
         int peek = pq.poll();
         if(pq.isEmpty()){
-            for(int i = curSeats; i <curSeats+10 && i<=totSeats; i++){
+            for(int i = curSeats;i<curSeats+10 && i<=totSeats; i++){
                 pq.add(i);
             }
             curSeats = curSeats + 10;
