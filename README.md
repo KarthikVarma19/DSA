@@ -127,6 +127,7 @@ Data Structures &amp; Algorithms
 | [0789-kth-largest-element-in-a-stream](https://github.com/KarthikVarma19/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/KarthikVarma19/DSA/tree/master/1023-time-based-key-value-store) |
 | [1582-design-browser-history](https://github.com/KarthikVarma19/DSA/tree/master/1582-design-browser-history) |
+| [1955-seat-reservation-manager](https://github.com/KarthikVarma19/DSA/tree/master/1955-seat-reservation-manager) |
 | [2104-operations-on-tree](https://github.com/KarthikVarma19/DSA/tree/master/2104-operations-on-tree) |
 | [2434-design-a-number-container-system](https://github.com/KarthikVarma19/DSA/tree/master/2434-design-a-number-container-system) |
 ## Doubly-Linked List
@@ -430,6 +431,7 @@ Data Structures &amp; Algorithms
 | [0948-sort-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/KarthikVarma19/DSA/tree/master/1127-last-stone-weight) |
 | [1753-path-with-minimum-effort](https://github.com/KarthikVarma19/DSA/tree/master/1753-path-with-minimum-effort) |
+| [1955-seat-reservation-manager](https://github.com/KarthikVarma19/DSA/tree/master/1955-seat-reservation-manager) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarthikVarma19/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2434-design-a-number-container-system](https://github.com/KarthikVarma19/DSA/tree/master/2434-design-a-number-container-system) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KarthikVarma19/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
