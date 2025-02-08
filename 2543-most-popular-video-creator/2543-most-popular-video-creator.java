@@ -15,7 +15,7 @@ class Solution {
         }
     }
     HashMap<String, Long> popCreators;
-    HashMap<String, PriorityQueue<Video>> creatorsPopVideos;
+    HashMap<String, TreeSet<Video>> creatorsPopVideos;
 
     public List<List<String>> mostPopularCreator(String[] creators, String[] ids, int[] views) {
         int n = creators.length;
@@ -28,9 +28,9 @@ class Solution {
             String id = ids[i];
             int view = views[i];
             popCreators.put(creator, popCreators.getOrDefault(creator, (long)0) + view);
-            creatorsPopVideos.putIfAbsent(creator, new PriorityQueue<>());
+            creatorsPopVideos.putIfAbsent(creator, new TreeSet<>());
             Video newVideo = new Video(id, view);
-            PriorityQueue<Video> pq = creatorsPopVideos.get(creator);
+            TreeSet<Video> pq = creatorsPopVideos.get(creator);
             pq.add(newVideo);
         }
 
@@ -51,7 +51,7 @@ class Solution {
         }
         List<List<String>> ans = new ArrayList<>();
         for(String eachCreator: creatorsList){
-            String popVideo = creatorsPopVideos.get(eachCreator).peek().id;
+            String popVideo = creatorsPopVideos.get(eachCreator).first().id;
             List<String> creator = new ArrayList<>();
             creator.add(eachCreator);
             creator.add(popVideo);
