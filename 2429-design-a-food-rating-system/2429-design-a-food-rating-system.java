@@ -41,14 +41,13 @@ class FoodRatings {
         TreeSet<foodItem> pq = cuis.get(cuisine);
         pq.remove(f);
         f.rating = newRating;
-        item.put(food, f);
+        //item.put(food, f);
         pq.add(f);
 
     }
     
     public String highestRated(String cuisine) {
-        foodItem f = cuis.get(cuisine).first();
-        return f.food;
+        return cuis.get(cuisine).first().food;
     }
 }
 
