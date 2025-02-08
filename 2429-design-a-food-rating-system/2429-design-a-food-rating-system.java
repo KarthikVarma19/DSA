@@ -37,12 +37,12 @@ class FoodRatings {
     
     public void changeRating(String food, int newRating) {
         foodItem f = item.get(food);
-        foodItem newf = new foodItem(f.food, f.cuisine, newRating);
-        item.put(food, newf);
         String cuisine = f.cuisine;
         TreeSet<foodItem> pq = cuis.get(cuisine);
         pq.remove(f);
-        pq.add(newf);
+        f.rating = newRating;
+        item.put(food, f);
+        pq.add(f);
 
     }
     
