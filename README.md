@@ -128,6 +128,7 @@ Data Structures &amp; Algorithms
 | [1023-time-based-key-value-store](https://github.com/KarthikVarma19/DSA/tree/master/1023-time-based-key-value-store) |
 | [1582-design-browser-history](https://github.com/KarthikVarma19/DSA/tree/master/1582-design-browser-history) |
 | [2104-operations-on-tree](https://github.com/KarthikVarma19/DSA/tree/master/2104-operations-on-tree) |
+| [2434-design-a-number-container-system](https://github.com/KarthikVarma19/DSA/tree/master/2434-design-a-number-container-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -270,6 +271,7 @@ Data Structures &amp; Algorithms
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KarthikVarma19/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2104-operations-on-tree](https://github.com/KarthikVarma19/DSA/tree/master/2104-operations-on-tree) |
 | [2427-first-letter-to-appear-twice](https://github.com/KarthikVarma19/DSA/tree/master/2427-first-letter-to-appear-twice) |
+| [2434-design-a-number-container-system](https://github.com/KarthikVarma19/DSA/tree/master/2434-design-a-number-container-system) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarthikVarma19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/KarthikVarma19/DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/KarthikVarma19/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -429,6 +431,7 @@ Data Structures &amp; Algorithms
 | [1127-last-stone-weight](https://github.com/KarthikVarma19/DSA/tree/master/1127-last-stone-weight) |
 | [1753-path-with-minimum-effort](https://github.com/KarthikVarma19/DSA/tree/master/1753-path-with-minimum-effort) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarthikVarma19/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2434-design-a-number-container-system](https://github.com/KarthikVarma19/DSA/tree/master/2434-design-a-number-container-system) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KarthikVarma19/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/KarthikVarma19/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarthikVarma19/DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -620,4 +623,8 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/KarthikVarma19/DSA/tree/master/0062-unique-paths) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/KarthikVarma19/DSA/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
