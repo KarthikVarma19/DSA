@@ -1,16 +1,16 @@
 class SeatManager {
 
-    PriorityQueue<Integer> pq;
+    TreeSet<Integer> pq;
     int curSeats = 2;
     int totSeats;
     public SeatManager(int n) {
-        pq = new PriorityQueue<>();
+        pq = new TreeSet<>();
         pq.add(1);
         totSeats = n;
     }
     
     public int reserve() {
-        int peek = pq.poll();
+        int peek = pq.pollFirst();
         if(pq.isEmpty()){
             for(int i = curSeats;i<curSeats+10 && i<=totSeats; i++){
                 pq.add(i);
