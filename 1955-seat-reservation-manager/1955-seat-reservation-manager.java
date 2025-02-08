@@ -1,17 +1,22 @@
 class SeatManager {
 
     PriorityQueue<Integer> pq;
+    int curSeats = 2;
+    int totSeats;
     public SeatManager(int n) {
         pq = new PriorityQueue<>();
-        for(int i = 1; i <= n; i++){
-            pq.add(i);
-        }
-        
+        pq.add(1);
+        totSeats = n;
     }
     
     public int reserve() {
-        int peek = pq.peek();
-        pq.remove();
+        int peek = pq.poll();
+        if(pq.isEmpty()){
+            for(int i = curSeats; i <curSeats+10 && i<=totSeats; i++){
+                pq.add(i);
+            }
+            curSeats = curSeats + 10;
+        }
         return peek;
     }
     
