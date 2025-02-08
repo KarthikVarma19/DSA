@@ -129,6 +129,7 @@ Data Structures &amp; Algorithms
 | [1582-design-browser-history](https://github.com/KarthikVarma19/DSA/tree/master/1582-design-browser-history) |
 | [1955-seat-reservation-manager](https://github.com/KarthikVarma19/DSA/tree/master/1955-seat-reservation-manager) |
 | [2104-operations-on-tree](https://github.com/KarthikVarma19/DSA/tree/master/2104-operations-on-tree) |
+| [2429-design-a-food-rating-system](https://github.com/KarthikVarma19/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/KarthikVarma19/DSA/tree/master/2434-design-a-number-container-system) |
 ## Doubly-Linked List
 |  |
@@ -272,6 +273,7 @@ Data Structures &amp; Algorithms
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KarthikVarma19/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2104-operations-on-tree](https://github.com/KarthikVarma19/DSA/tree/master/2104-operations-on-tree) |
 | [2427-first-letter-to-appear-twice](https://github.com/KarthikVarma19/DSA/tree/master/2427-first-letter-to-appear-twice) |
+| [2429-design-a-food-rating-system](https://github.com/KarthikVarma19/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/KarthikVarma19/DSA/tree/master/2434-design-a-number-container-system) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarthikVarma19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/KarthikVarma19/DSA/tree/master/2685-first-completely-painted-row-or-column) |
@@ -433,6 +435,7 @@ Data Structures &amp; Algorithms
 | [1753-path-with-minimum-effort](https://github.com/KarthikVarma19/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1955-seat-reservation-manager](https://github.com/KarthikVarma19/DSA/tree/master/1955-seat-reservation-manager) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarthikVarma19/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2429-design-a-food-rating-system](https://github.com/KarthikVarma19/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/KarthikVarma19/DSA/tree/master/2434-design-a-number-container-system) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KarthikVarma19/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/KarthikVarma19/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -628,5 +631,6 @@ Data Structures &amp; Algorithms
 ## Ordered Set
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/KarthikVarma19/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/KarthikVarma19/DSA/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
