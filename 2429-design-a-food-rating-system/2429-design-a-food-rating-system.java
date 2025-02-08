@@ -10,7 +10,7 @@ class FoodRatings {
         }
     }
     HashMap<String, foodItem> item;
-    HashMap<String, PriorityQueue<foodItem>> cuis;
+    HashMap<String, TreeSet<foodItem>> cuis;
     public FoodRatings(String[] foods, String[] cuisines, int[] ratings) {
         int n = foods.length;
         item = new HashMap<>();
@@ -20,7 +20,7 @@ class FoodRatings {
             int rating = ratings[i];
             foodItem f = new foodItem(food, cuisine, rating);
             item.put(food, f);
-            cuis.putIfAbsent(cuisine, new PriorityQueue<>(
+            cuis.putIfAbsent(cuisine, new TreeSet<>(
                 new Comparator<foodItem>(){
                     @Override
                     public int compare(foodItem a,  foodItem b){
@@ -40,14 +40,14 @@ class FoodRatings {
         foodItem newf = new foodItem(f.food, f.cuisine, newRating);
         item.put(food, newf);
         String cuisine = f.cuisine;
-        PriorityQueue<foodItem> pq = cuis.get(cuisine);
+        TreeSet<foodItem> pq = cuis.get(cuisine);
         pq.remove(f);
         pq.add(newf);
 
     }
     
     public String highestRated(String cuisine) {
-        foodItem f = cuis.get(cuisine).peek();
+        foodItem f = cuis.get(cuisine).first();
         return f.food;
     }
 }
