@@ -118,6 +118,7 @@ Data Structures &amp; Algorithms
 | [1582-design-browser-history](https://github.com/KarthikVarma19/DSA/tree/master/1582-design-browser-history) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/KarthikVarma19/DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/KarthikVarma19/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3447-clear-digits](https://github.com/KarthikVarma19/DSA/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -252,6 +253,7 @@ Data Structures &amp; Algorithms
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KarthikVarma19/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/KarthikVarma19/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/KarthikVarma19/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/KarthikVarma19/DSA/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KarthikVarma19/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
@@ -323,6 +325,7 @@ Data Structures &amp; Algorithms
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/KarthikVarma19/DSA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/KarthikVarma19/DSA/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/KarthikVarma19/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/KarthikVarma19/DSA/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KarthikVarma19/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
