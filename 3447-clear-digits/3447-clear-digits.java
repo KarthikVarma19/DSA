@@ -1,15 +1,18 @@
 class Solution {
     public String clearDigits(String s) {
-        char charArray[] = s.toCharArray();
-        int curPointer = 0;
-        for(int i = 0; i < s.length(); i++){
-            char ch = charArray[i];
+        Stack<Character> st = new Stack<>();
+        for(char ch: s.toCharArray()){
             if(Character.isDigit(ch)){
-                curPointer = Math.max(0, curPointer-1);
-            }else{
-                charArray[curPointer++] = ch;
+                st.pop();
+            }
+            else{
+                st.push(ch);
             }
         }
-        return new String(charArray, 0, curPointer);
+        String ans = "";
+        while(!st.isEmpty()){
+            ans = st.pop() + ans;
+        }
+        return ans;
     }
 }
