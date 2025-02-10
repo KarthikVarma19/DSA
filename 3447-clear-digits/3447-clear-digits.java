@@ -1,15 +1,15 @@
 class Solution {
     public String clearDigits(String s) {
-        StringBuilder sb = new StringBuilder();
+        char charArray[] = s.toCharArray();
+        int curPointer = 0;
         for(int i = 0; i < s.length(); i++){
-            char ch = s.charAt(i);
-            if(ch >= '0' && ch <= '9'){
-                sb.deleteCharAt(sb.length()-1);
-            }
-            else{
-                sb.append(ch);
+            char ch = charArray[i];
+            if(Character.isDigit(ch)){
+                curPointer = Math.max(0, curPointer-1);
+            }else{
+                charArray[curPointer++] = ch;
             }
         }
-        return sb.toString();
+        return new String(charArray, 0, curPointer);
     }
 }
