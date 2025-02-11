@@ -166,6 +166,7 @@ Data Structures &amp; Algorithms
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/KarthikVarma19/DSA/tree/master/1731-even-odd-tree) |
 | [2104-operations-on-tree](https://github.com/KarthikVarma19/DSA/tree/master/2104-operations-on-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/KarthikVarma19/DSA/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -235,6 +236,7 @@ Data Structures &amp; Algorithms
 | [1254-deepest-leaves-sum](https://github.com/KarthikVarma19/DSA/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/KarthikVarma19/DSA/tree/master/1731-even-odd-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/KarthikVarma19/DSA/tree/master/2384-root-equals-sum-of-children) |
 ## Matrix
 |  |
 | ------- |
