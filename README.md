@@ -128,6 +128,7 @@ Data Structures &amp; Algorithms
 | [0303-range-sum-query-immutable](https://github.com/KarthikVarma19/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/KarthikVarma19/DSA/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KarthikVarma19/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0969-number-of-recent-calls](https://github.com/KarthikVarma19/DSA/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/KarthikVarma19/DSA/tree/master/1023-time-based-key-value-store) |
 | [1582-design-browser-history](https://github.com/KarthikVarma19/DSA/tree/master/1582-design-browser-history) |
 | [1955-seat-reservation-manager](https://github.com/KarthikVarma19/DSA/tree/master/1955-seat-reservation-manager) |
@@ -143,6 +144,7 @@ Data Structures &amp; Algorithms
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/KarthikVarma19/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KarthikVarma19/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0969-number-of-recent-calls](https://github.com/KarthikVarma19/DSA/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/KarthikVarma19/DSA/tree/master/1582-design-browser-history) |
 ## Tree
 |  |
@@ -379,6 +381,7 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KarthikVarma19/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0969-number-of-recent-calls](https://github.com/KarthikVarma19/DSA/tree/master/0969-number-of-recent-calls) |
 ## Database
 |  |
 | ------- |
