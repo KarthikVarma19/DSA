@@ -1,5 +1,5 @@
 class Solution {
-    public int getSum(int num){
+    public int getDigitSum(int num){
         int sum = 0;
         while(num != 0){
             sum += num%10;
@@ -9,10 +9,9 @@ class Solution {
     }
     public int maximumSum(int[] nums) {
         int max[] = new int[82];
-        //int sum[] = new int[82];
         int result = -1;
         for(int num: nums){
-            int digitSum = getSum(num);
+            int digitSum = getDigitSum(num);
             if(max[digitSum] == 0){
                 max[digitSum] = num;
             }
