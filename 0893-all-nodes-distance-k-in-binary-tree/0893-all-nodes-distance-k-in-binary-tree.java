@@ -25,10 +25,9 @@ class Solution {
         Map<TreeNode,TreeNode> parent = new HashMap<>();
         saveParent(root, parent);
         Queue<TreeNode> q = new LinkedList<>();
-        Boolean vis[] = new Boolean[501];
-        Arrays.fill(vis, false);
+        Set<Integer> vis = new HashSet<>();
         q.add(target);
-        vis[target.val] = true;
+        vis.add(target.val);
         int curDis = 0;
         while(!q.isEmpty()){
             int curSize = q.size();
@@ -37,17 +36,17 @@ class Solution {
             }
             for(int i = 0; i < curSize; i++){
                 TreeNode front = q.poll();
-                if(parent.get(front) != null && vis[parent.get(front).val] == false){
+                if(parent.get(front) != null && vis.contains(parent.get(front).val) != true){
                     q.add(parent.get(front));
-                    vis[parent.get(front).val] = true;
+                    vis.add(parent.get(front).val);
                 }
-                if(front.left != null && vis[front.left.val] != true){
+                if(front.left != null && vis.contains(front.left.val) != true){
                     q.add(front.left);
-                    vis[front.left.val] = true;
+                    vis.add(front.left.val);
                 }
-                if(front.right != null && vis[front.right.val] != true){
+                if(front.right != null && vis.contains(front.right.val) != true){
                     q.add(front.right);
-                    vis[front.right.val] = true;
+                    vis.add(front.right.val);
                 }
             }
         }
