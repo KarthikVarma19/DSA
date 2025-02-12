@@ -8,22 +8,22 @@
  * }
  */
 class Solution {
-    public void saveParent(TreeNode root, Map<TreeNode,TreeNode> parent){
-        if(root == null){
+    public void saveParent(TreeNode root, Map<TreeNode,TreeNode> parent, TreeNode target){
+        if(root == null || root == target){
             return;
         }
         if(root.left != null){
             parent.put(root.left, root);
-            saveParent(root.left, parent);
+            saveParent(root.left, parent, target);
         }
         if(root.right != null){
             parent.put(root.right, root);
-            saveParent(root.right, parent);
+            saveParent(root.right, parent, target);
         }
     }
     public List<Integer> distanceK(TreeNode root, TreeNode target, int k) {
         Map<TreeNode,TreeNode> parent = new HashMap<>();
-        saveParent(root, parent);
+        saveParent(root, parent, target);
         Queue<TreeNode> q = new LinkedList<>();
         Set<Integer> vis = new HashSet<>();
         q.add(target);
