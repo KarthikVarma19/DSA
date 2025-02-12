@@ -10,6 +10,7 @@ class Solution {
     public int maximumSum(int[] nums) {
         int max[] = new int[82];
         int sum[] = new int[82];
+        int result = -1;
         for(int num: nums){
             int digitSum = getSum(num);
             if(max[digitSum] == 0){
@@ -18,13 +19,12 @@ class Solution {
             else{
                 sum[digitSum] = Math.max(sum[digitSum], max[digitSum] + num);
                 max[digitSum] = Math.max(max[digitSum], num);
+                result = Math.max(result, sum[digitSum]);
             }
         }
-        int maxi = -1;
-        for(int i = 0; i < 82; i++){
-            maxi = Math.max(maxi, sum[i]);
+        if(result == 0){
+            return -1;
         }
-        if(maxi == 0) return -1;
-        return maxi;
+        return result;
     }
 }
