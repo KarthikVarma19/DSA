@@ -1,43 +1,29 @@
 
 class Solution {
-      public void makeParent(TreeNode root, Map<TreeNode,TreeNode> parent){
-        if(root == null){
-            return;
-        }
-        if(root.left != null){
-            parent.put(root.left, root);
-        }
-        if(root.right != null){
-            parent.put(root.right, root);
-        }
-        makeParent(root.left, parent);
-        makeParent(root.right, parent);
-    }
-    public TreeNode getRef(TreeNode root, int t){
+      public TreeNode makeParent(TreeNode root, Map<TreeNode,TreeNode> parent, int target){
         if(root == null) return null;
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
         TreeNode ref = null;
         while(!q.isEmpty()){
             TreeNode peek = q.poll();
-            if(peek.val == t){
+            if(peek.val == target){
                 ref = peek;
-                break;
             }
             if(peek.left != null){
+                parent.put(peek.left, peek);
                 q.add(peek.left);
             }
             if(peek.right != null){
+                parent.put(peek.right, peek);
                 q.add(peek.right);
             }
         }
         return ref;
-        
     }
     public int amountOfTime(TreeNode root, int target) {
         Map<TreeNode,TreeNode> parent = new HashMap<>();
-        makeParent(root, parent);
-        TreeNode targetRef = getRef(root, target);
+        TreeNode targetRef = makeParent(root, parent, target);
         Queue<TreeNode> q = new LinkedList<>();
         Set<Integer> vis = new HashSet<>();
         q.add(targetRef);
