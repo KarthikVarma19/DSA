@@ -8,8 +8,8 @@ class Solution {
         return sum;
     }
     public int maximumSum(int[] nums) {
-        int max[] = new int[100];
-        int sum[] = new int[100];
+        int max[] = new int[82];
+        int sum[] = new int[82];
         for(int num: nums){
             int digitSum = getSum(num);
             if(max[digitSum] == 0){
@@ -21,7 +21,7 @@ class Solution {
             }
         }
         int maxi = -1;
-        for(int i = 0; i < 100; i++){
+        for(int i = 0; i < 82; i++){
             maxi = Math.max(maxi, sum[i]);
         }
         if(maxi == 0) return -1;
