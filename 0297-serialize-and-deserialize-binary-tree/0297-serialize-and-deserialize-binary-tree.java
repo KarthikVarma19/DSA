@@ -27,7 +27,6 @@ public class Codec {
             q.add(peek.left);
             q.add(peek.right);
         }
-        System.out.println(sb);
         return sb.toString();
     }
 
