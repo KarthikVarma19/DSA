@@ -1,7 +1,7 @@
 class Solution {
     public int halveArray(int[] nums) {
         double initSum = 0;
-        PriorityQueue<Double> pq = new PriorityQueue<>(Collections.reverseOrder());
+        PriorityQueue<Double> pq = new PriorityQueue<>(Comparator.reverseOrder());
         for(double num: nums){
             pq.add(num);
             initSum += num;
