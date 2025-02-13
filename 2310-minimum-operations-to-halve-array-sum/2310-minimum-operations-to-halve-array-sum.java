@@ -6,13 +6,13 @@ class Solution {
             pq.add(num);
             initSum += num;
         }
-        double minSum = initSum;
+        double curSum = initSum;
         int ops = 0;
-        while(!pq.isEmpty() && (minSum > (initSum/2))){
+        while(!pq.isEmpty() && (curSum > (initSum/2))){
             double peek = pq.poll();
             double newVal = peek/2.0;
-            pq.add(peek/2.0);
-            minSum -=  newVal;
+            pq.add(newVal);
+            curSum -=  newVal;
             ops++;
         }
         return ops;
