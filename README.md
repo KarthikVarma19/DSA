@@ -53,6 +53,7 @@ Data Structures &amp; Algorithms
 | [1396-count-servers-that-communicate](https://github.com/KarthikVarma19/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KarthikVarma19/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarthikVarma19/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/KarthikVarma19/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/KarthikVarma19/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KarthikVarma19/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/KarthikVarma19/DSA/tree/master/1582-design-browser-history) |
@@ -135,6 +136,7 @@ Data Structures &amp; Algorithms
 | [0789-kth-largest-element-in-a-stream](https://github.com/KarthikVarma19/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/KarthikVarma19/DSA/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/KarthikVarma19/DSA/tree/master/1023-time-based-key-value-store) |
+| [1477-product-of-the-last-k-numbers](https://github.com/KarthikVarma19/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/KarthikVarma19/DSA/tree/master/1582-design-browser-history) |
 | [1955-seat-reservation-manager](https://github.com/KarthikVarma19/DSA/tree/master/1955-seat-reservation-manager) |
 | [2104-operations-on-tree](https://github.com/KarthikVarma19/DSA/tree/master/2104-operations-on-tree) |
@@ -150,6 +152,7 @@ Data Structures &amp; Algorithms
 | [0295-find-median-from-data-stream](https://github.com/KarthikVarma19/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KarthikVarma19/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/KarthikVarma19/DSA/tree/master/0969-number-of-recent-calls) |
+| [1477-product-of-the-last-k-numbers](https://github.com/KarthikVarma19/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/KarthikVarma19/DSA/tree/master/1582-design-browser-history) |
 ## Tree
 |  |
@@ -604,6 +607,7 @@ Data Structures &amp; Algorithms
 | [0633-sum-of-square-numbers](https://github.com/KarthikVarma19/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/KarthikVarma19/DSA/tree/master/0650-2-keys-keyboard) |
 | [0795-k-th-symbol-in-grammar](https://github.com/KarthikVarma19/DSA/tree/master/0795-k-th-symbol-in-grammar) |
+| [1477-product-of-the-last-k-numbers](https://github.com/KarthikVarma19/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/KarthikVarma19/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KarthikVarma19/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
@@ -667,6 +671,7 @@ Data Structures &amp; Algorithms
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/KarthikVarma19/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/KarthikVarma19/DSA/tree/master/0724-find-pivot-index) |
+| [1477-product-of-the-last-k-numbers](https://github.com/KarthikVarma19/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KarthikVarma19/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/KarthikVarma19/DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/KarthikVarma19/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
