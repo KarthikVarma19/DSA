@@ -609,6 +609,7 @@ Data Structures &amp; Algorithms
 | [0795-k-th-symbol-in-grammar](https://github.com/KarthikVarma19/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KarthikVarma19/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/KarthikVarma19/DSA/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/KarthikVarma19/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KarthikVarma19/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
 |  |
@@ -680,6 +681,7 @@ Data Structures &amp; Algorithms
 | ------- |
 | [0046-permutations](https://github.com/KarthikVarma19/DSA/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/KarthikVarma19/DSA/tree/master/0113-path-sum-ii) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/KarthikVarma19/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Rolling Hash
 |  |
 | ------- |
