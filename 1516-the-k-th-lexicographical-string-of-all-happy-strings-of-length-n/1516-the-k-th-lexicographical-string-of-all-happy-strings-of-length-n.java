@@ -13,6 +13,9 @@ class Solution {
         return ans;
     }
     public boolean solve(String cur, int n, char arr[], int k){
+        if(globalK == k){
+            return true;
+        }
         
         if(cur.length() == n){
             globalK++;
