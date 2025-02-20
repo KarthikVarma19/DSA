@@ -68,6 +68,7 @@ Data Structures &amp; Algorithms
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/KarthikVarma19/DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/KarthikVarma19/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2104-operations-on-tree](https://github.com/KarthikVarma19/DSA/tree/master/2104-operations-on-tree) |
+| [2107-find-unique-binary-string](https://github.com/KarthikVarma19/DSA/tree/master/2107-find-unique-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/KarthikVarma19/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KarthikVarma19/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/KarthikVarma19/DSA/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -322,6 +323,7 @@ Data Structures &amp; Algorithms
 | [1502-construct-k-palindrome-strings](https://github.com/KarthikVarma19/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KarthikVarma19/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2104-operations-on-tree](https://github.com/KarthikVarma19/DSA/tree/master/2104-operations-on-tree) |
+| [2107-find-unique-binary-string](https://github.com/KarthikVarma19/DSA/tree/master/2107-find-unique-binary-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/KarthikVarma19/DSA/tree/master/2427-first-letter-to-appear-twice) |
 | [2429-design-a-food-rating-system](https://github.com/KarthikVarma19/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/KarthikVarma19/DSA/tree/master/2434-design-a-number-container-system) |
@@ -366,6 +368,7 @@ Data Structures &amp; Algorithms
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KarthikVarma19/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KarthikVarma19/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/KarthikVarma19/DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2107-find-unique-binary-string](https://github.com/KarthikVarma19/DSA/tree/master/2107-find-unique-binary-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/KarthikVarma19/DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/KarthikVarma19/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KarthikVarma19/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -692,6 +695,7 @@ Data Structures &amp; Algorithms
 | [1160-letter-tile-possibilities](https://github.com/KarthikVarma19/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KarthikVarma19/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/KarthikVarma19/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/KarthikVarma19/DSA/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/KarthikVarma19/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/KarthikVarma19/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Rolling Hash
