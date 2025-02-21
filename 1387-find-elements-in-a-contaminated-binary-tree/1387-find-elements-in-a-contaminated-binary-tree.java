@@ -16,27 +16,31 @@
 class FindElements {
     
     HashSet<Integer> hashSet = new HashSet<>();
-    
+    TreeNode ROOT;
     public FindElements(TreeNode root) {
-        recoverBT(root, 0);
-    }
-    
-    private void recoverBT(TreeNode root, int value){
-        root.val = value;
-        hashSet.add(value);
-        if(root.left != null){
-            recoverBT(root.left, 2 * value + 1);
-        }
-        if(root.right != null){
-            recoverBT(root.right, 2 * value + 2);
-        }
+        ROOT = root;
     }
 
     public boolean find(int target) {
-        if(hashSet.contains(target)){
-            return true;
+
+        TreeNode node = ROOT;
+
+        int path = target + 1;
+
+        int depth = Integer.toBinaryString(path).length();
+
+        int mask = 1 << (depth - 2);
+
+        while(mask > 0 && node != null){
+            if((path&mask) == 0){
+                node = node.left;
+            } else{
+                node = node.right;
+            }
+            mask = mask >> 1;
         }
-        return false;
+        return node!=null;
+
     }
 }
 
