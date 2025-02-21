@@ -15,7 +15,6 @@
  */
 class FindElements {
     
-    HashSet<Integer> hashSet = new HashSet<>();
     TreeNode ROOT;
     public FindElements(TreeNode root) {
         ROOT = root;
