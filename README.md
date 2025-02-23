@@ -359,6 +359,7 @@ Data Structures &amp; Algorithms
 | [0087-scramble-string](https://github.com/KarthikVarma19/DSA/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/KarthikVarma19/DSA/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/KarthikVarma19/DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0171-excel-sheet-column-number](https://github.com/KarthikVarma19/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/KarthikVarma19/DSA/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/KarthikVarma19/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/KarthikVarma19/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -629,6 +630,7 @@ Data Structures &amp; Algorithms
 | [0062-unique-paths](https://github.com/KarthikVarma19/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/KarthikVarma19/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KarthikVarma19/DSA/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/KarthikVarma19/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/KarthikVarma19/DSA/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/KarthikVarma19/DSA/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/KarthikVarma19/DSA/tree/master/0371-sum-of-two-integers) |
