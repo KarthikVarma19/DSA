@@ -179,6 +179,7 @@ Data Structures &amp; Algorithms
 | [0789-kth-largest-element-in-a-stream](https://github.com/KarthikVarma19/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/KarthikVarma19/DSA/tree/master/0904-leaf-similar-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/KarthikVarma19/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KarthikVarma19/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1254-deepest-leaves-sum](https://github.com/KarthikVarma19/DSA/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -208,6 +209,7 @@ Data Structures &amp; Algorithms
 | [0820-find-eventual-safe-states](https://github.com/KarthikVarma19/DSA/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/KarthikVarma19/DSA/tree/master/0904-leaf-similar-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/KarthikVarma19/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KarthikVarma19/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1254-deepest-leaves-sum](https://github.com/KarthikVarma19/DSA/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -263,6 +265,7 @@ Data Structures &amp; Algorithms
 | [0789-kth-largest-element-in-a-stream](https://github.com/KarthikVarma19/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/KarthikVarma19/DSA/tree/master/0904-leaf-similar-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/KarthikVarma19/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KarthikVarma19/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1254-deepest-leaves-sum](https://github.com/KarthikVarma19/DSA/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -367,6 +370,7 @@ Data Structures &amp; Algorithms
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KarthikVarma19/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/KarthikVarma19/DSA/tree/master/1023-time-based-key-value-store) |
 | [1080-camelcase-matching](https://github.com/KarthikVarma19/DSA/tree/master/1080-camelcase-matching) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/KarthikVarma19/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/KarthikVarma19/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/KarthikVarma19/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KarthikVarma19/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
