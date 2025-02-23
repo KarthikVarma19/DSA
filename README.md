@@ -42,6 +42,7 @@ Data Structures &amp; Algorithms
 | [0787-sliding-puzzle](https://github.com/KarthikVarma19/DSA/tree/master/0787-sliding-puzzle) |
 | [0837-most-common-word](https://github.com/KarthikVarma19/DSA/tree/master/0837-most-common-word) |
 | [0907-koko-eating-bananas](https://github.com/KarthikVarma19/DSA/tree/master/0907-koko-eating-bananas) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KarthikVarma19/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/KarthikVarma19/DSA/tree/master/0952-word-subsets) |
 | [1080-camelcase-matching](https://github.com/KarthikVarma19/DSA/tree/master/1080-camelcase-matching) |
@@ -179,6 +180,7 @@ Data Structures &amp; Algorithms
 | [0789-kth-largest-element-in-a-stream](https://github.com/KarthikVarma19/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/KarthikVarma19/DSA/tree/master/0904-leaf-similar-trees) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KarthikVarma19/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/KarthikVarma19/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KarthikVarma19/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1254-deepest-leaves-sum](https://github.com/KarthikVarma19/DSA/tree/master/1254-deepest-leaves-sum) |
@@ -265,6 +267,7 @@ Data Structures &amp; Algorithms
 | [0789-kth-largest-element-in-a-stream](https://github.com/KarthikVarma19/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/KarthikVarma19/DSA/tree/master/0904-leaf-similar-trees) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KarthikVarma19/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/KarthikVarma19/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KarthikVarma19/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1254-deepest-leaves-sum](https://github.com/KarthikVarma19/DSA/tree/master/1254-deepest-leaves-sum) |
@@ -323,6 +326,7 @@ Data Structures &amp; Algorithms
 | [0837-most-common-word](https://github.com/KarthikVarma19/DSA/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/KarthikVarma19/DSA/tree/master/0889-buddy-strings) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KarthikVarma19/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/KarthikVarma19/DSA/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/KarthikVarma19/DSA/tree/master/1023-time-based-key-value-store) |
 | [1160-letter-tile-possibilities](https://github.com/KarthikVarma19/DSA/tree/master/1160-letter-tile-possibilities) |
@@ -640,6 +644,7 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KarthikVarma19/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
