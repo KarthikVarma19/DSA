@@ -80,6 +80,7 @@ Data Structures &amp; Algorithms
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KarthikVarma19/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/KarthikVarma19/DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarthikVarma19/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2411-spiral-matrix-iv](https://github.com/KarthikVarma19/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/KarthikVarma19/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KarthikVarma19/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/KarthikVarma19/DSA/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -121,6 +122,7 @@ Data Structures &amp; Algorithms
 | [1582-design-browser-history](https://github.com/KarthikVarma19/DSA/tree/master/1582-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KarthikVarma19/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/KarthikVarma19/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2411-spiral-matrix-iv](https://github.com/KarthikVarma19/DSA/tree/master/2411-spiral-matrix-iv) |
 ## Stack
 |  |
 | ------- |
@@ -296,6 +298,7 @@ Data Structures &amp; Algorithms
 | [1972-rotating-the-box](https://github.com/KarthikVarma19/DSA/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KarthikVarma19/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarthikVarma19/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2411-spiral-matrix-iv](https://github.com/KarthikVarma19/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/KarthikVarma19/DSA/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/KarthikVarma19/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2685-first-completely-painted-row-or-column](https://github.com/KarthikVarma19/DSA/tree/master/2685-first-completely-painted-row-or-column) |
@@ -311,6 +314,7 @@ Data Structures &amp; Algorithms
 | [0566-reshape-the-matrix](https://github.com/KarthikVarma19/DSA/tree/master/0566-reshape-the-matrix) |
 | [2232-adding-spaces-to-a-string](https://github.com/KarthikVarma19/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KarthikVarma19/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2411-spiral-matrix-iv](https://github.com/KarthikVarma19/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/KarthikVarma19/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KarthikVarma19/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/KarthikVarma19/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
