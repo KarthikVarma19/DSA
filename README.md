@@ -7,6 +7,7 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0046-permutations](https://github.com/KarthikVarma19/DSA/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/KarthikVarma19/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KarthikVarma19/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/KarthikVarma19/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KarthikVarma19/DSA/tree/master/0064-minimum-path-sum) |
@@ -280,6 +281,7 @@ Data Structures &amp; Algorithms
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/KarthikVarma19/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KarthikVarma19/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/KarthikVarma19/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KarthikVarma19/DSA/tree/master/0064-minimum-path-sum) |
@@ -303,6 +305,7 @@ Data Structures &amp; Algorithms
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/KarthikVarma19/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KarthikVarma19/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/KarthikVarma19/DSA/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/KarthikVarma19/DSA/tree/master/0566-reshape-the-matrix) |
