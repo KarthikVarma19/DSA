@@ -222,6 +222,7 @@ Data Structures &amp; Algorithms
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/KarthikVarma19/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KarthikVarma19/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1254-deepest-leaves-sum](https://github.com/KarthikVarma19/DSA/tree/master/1254-deepest-leaves-sum) |
+| [1300-critical-connections-in-a-network](https://github.com/KarthikVarma19/DSA/tree/master/1300-critical-connections-in-a-network) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/KarthikVarma19/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -483,6 +484,7 @@ Data Structures &amp; Algorithms
 | [0744-network-delay-time](https://github.com/KarthikVarma19/DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/KarthikVarma19/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/KarthikVarma19/DSA/tree/master/0820-find-eventual-safe-states) |
+| [1300-critical-connections-in-a-network](https://github.com/KarthikVarma19/DSA/tree/master/1300-critical-connections-in-a-network) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KarthikVarma19/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/KarthikVarma19/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarthikVarma19/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -767,4 +769,8 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/KarthikVarma19/DSA/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
