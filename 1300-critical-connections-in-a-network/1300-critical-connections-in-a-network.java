@@ -1,5 +1,4 @@
 class Solution {
-    private int timer = 1;
     public List<List<Integer>> criticalConnections(int n, List<List<Integer>> connections) {
         List<List<Integer>> adj = new ArrayList<>();
         for(int i = 0; i < n; i++){
@@ -12,35 +11,29 @@ class Solution {
         }
         int vis[] = new int[n];
         int tim[] = new int[n];
-        int min[] = new int[n];
+        int timer[] = new int[1];
         List<List<Integer>> bridges = new ArrayList<>();
         
         //(node, parent, vis, tim, min, adj, bridges)
-        dfs(0, -1, vis, tim, min, adj, bridges);
+        dfs(0, -1, vis, tim, timer, adj, bridges);
 
         return bridges;
     }
-    public void dfs(int node, int parent, int vis[], int tim[], int min[], List<List<Integer>> adj, List<List<Integer>> bridges){
+    public void dfs(int node, int parent, int vis[], int min[], int timer[], List<List<Integer>> adj, List<List<Integer>> bridges){
         vis[node] = 1;
-        tim[node] = timer;
-        min[node] = timer;
-        timer++;
+        min[node] = timer[0]++;
+        int currentTime = min[node];
         for(Integer it: adj.get(node)){
             if(it == parent){
                 continue;
             }
             //not visited
             if(vis[it] == 0){
-                dfs(it, node, vis, tim, min, adj, bridges);
-                //be greedy by taking it neighbout min time
-                min[node] = Math.min(min[node], min[it]);
-                //check if it can be a bridge
-                //if current node's insertion time is less than the it's adjacent minimum insertion time than we can say that it is dependent on this only
-                if(tim[node] < min[it]){
-                    bridges.add(Arrays.asList(node, it));
-                }
-            }else{
-                min[node] = Math.min(min[node], min[it]);
+                dfs(it, node, vis, min, timer, adj, bridges);
+            }
+            min[node] = Math.min(min[node], min[it]);
+            if(currentTime < min[it]){
+                bridges.add(Arrays.asList(node, it));
             }
         }
     }
