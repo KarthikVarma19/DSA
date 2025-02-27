@@ -37,10 +37,7 @@ class Solution {
                 //check if it can be a bridge
                 //if current node's insertion time is less than the it's adjacent minimum insertion time than we can say that it is dependent on this only
                 if(tim[node] < min[it]){
-                    List<Integer> bridge = new ArrayList<>();
-                    bridge.add(it);
-                    bridge.add(node);
-                    bridges.add(bridge);
+                    bridges.add(Arrays.asList(node, it));
                 }
             }else{
                 min[node] = Math.min(min[node], min[it]);
