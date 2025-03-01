@@ -88,6 +88,7 @@ Data Structures &amp; Algorithms
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/KarthikVarma19/DSA/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/KarthikVarma19/DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2543-most-popular-video-creator](https://github.com/KarthikVarma19/DSA/tree/master/2543-most-popular-video-creator) |
+| [2551-apply-operations-to-an-array](https://github.com/KarthikVarma19/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/KarthikVarma19/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KarthikVarma19/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarthikVarma19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -321,6 +322,7 @@ Data Structures &amp; Algorithms
 | [2232-adding-spaces-to-a-string](https://github.com/KarthikVarma19/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KarthikVarma19/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/KarthikVarma19/DSA/tree/master/2411-spiral-matrix-iv) |
+| [2551-apply-operations-to-an-array](https://github.com/KarthikVarma19/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/KarthikVarma19/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KarthikVarma19/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/KarthikVarma19/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -477,6 +479,7 @@ Data Structures &amp; Algorithms
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KarthikVarma19/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/KarthikVarma19/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/KarthikVarma19/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2551-apply-operations-to-an-array](https://github.com/KarthikVarma19/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/KarthikVarma19/DSA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Graph
 |  |
