@@ -411,6 +411,7 @@ Data Structures &amp; Algorithms
 | [2341-count-prefixes-of-a-given-string](https://github.com/KarthikVarma19/DSA/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/KarthikVarma19/DSA/tree/master/2427-first-letter-to-appear-twice) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/KarthikVarma19/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KarthikVarma19/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2543-most-popular-video-creator](https://github.com/KarthikVarma19/DSA/tree/master/2543-most-popular-video-creator) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/KarthikVarma19/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/KarthikVarma19/DSA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -501,6 +502,7 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/KarthikVarma19/DSA/tree/master/1755-defuse-the-bomb) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KarthikVarma19/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Binary Search
 |  |
 | ------- |
