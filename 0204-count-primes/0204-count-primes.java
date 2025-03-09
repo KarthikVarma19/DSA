@@ -1,6 +1,6 @@
 class Solution {
     public int countPrimes(int n) {
-        if(n <= 1) return 0;
+        if(n == 0) return 0;
         int seive[] = new int[n+1];
         seive[1] = 1;
         int count = 0;
