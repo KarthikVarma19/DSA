@@ -1,4 +1,5 @@
 class Solution {
+    
     public int countBeautifulPairs(int[] nums) {
         int n = nums.length;
         int beautifulPairs = 0;
