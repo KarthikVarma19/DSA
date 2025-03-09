@@ -101,6 +101,7 @@ Data Structures &amp; Algorithms
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarthikVarma19/DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KarthikVarma19/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/KarthikVarma19/DSA/tree/master/2792-neighboring-bitwise-xor) |
+| [2831-number-of-beautiful-pairs](https://github.com/KarthikVarma19/DSA/tree/master/2831-number-of-beautiful-pairs) |
 | [3188-find-champion-i](https://github.com/KarthikVarma19/DSA/tree/master/3188-find-champion-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KarthikVarma19/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KarthikVarma19/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -370,6 +371,7 @@ Data Structures &amp; Algorithms
 | [2685-first-completely-painted-row-or-column](https://github.com/KarthikVarma19/DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/KarthikVarma19/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KarthikVarma19/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2831-number-of-beautiful-pairs](https://github.com/KarthikVarma19/DSA/tree/master/2831-number-of-beautiful-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KarthikVarma19/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/KarthikVarma19/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KarthikVarma19/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -451,6 +453,7 @@ Data Structures &amp; Algorithms
 | [2427-first-letter-to-appear-twice](https://github.com/KarthikVarma19/DSA/tree/master/2427-first-letter-to-appear-twice) |
 | [2448-count-number-of-bad-pairs](https://github.com/KarthikVarma19/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KarthikVarma19/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2831-number-of-beautiful-pairs](https://github.com/KarthikVarma19/DSA/tree/master/2831-number-of-beautiful-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KarthikVarma19/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KarthikVarma19/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Queue
@@ -670,6 +673,7 @@ Data Structures &amp; Algorithms
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/KarthikVarma19/DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/KarthikVarma19/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/KarthikVarma19/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2831-number-of-beautiful-pairs](https://github.com/KarthikVarma19/DSA/tree/master/2831-number-of-beautiful-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KarthikVarma19/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
 |  |
@@ -726,6 +730,7 @@ Data Structures &amp; Algorithms
 | ------- |
 | [0204-count-primes](https://github.com/KarthikVarma19/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/KarthikVarma19/DSA/tree/master/0258-add-digits) |
+| [2831-number-of-beautiful-pairs](https://github.com/KarthikVarma19/DSA/tree/master/2831-number-of-beautiful-pairs) |
 ## Recursion
 |  |
 | ------- |
