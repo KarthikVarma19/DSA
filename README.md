@@ -24,6 +24,7 @@ Data Structures &amp; Algorithms
 | [0179-largest-number](https://github.com/KarthikVarma19/DSA/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KarthikVarma19/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/KarthikVarma19/DSA/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/KarthikVarma19/DSA/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/KarthikVarma19/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/KarthikVarma19/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -657,6 +658,7 @@ Data Structures &amp; Algorithms
 | [0069-sqrtx](https://github.com/KarthikVarma19/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KarthikVarma19/DSA/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/KarthikVarma19/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0204-count-primes](https://github.com/KarthikVarma19/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/KarthikVarma19/DSA/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/KarthikVarma19/DSA/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/KarthikVarma19/DSA/tree/master/0371-sum-of-two-integers) |
@@ -722,6 +724,7 @@ Data Structures &amp; Algorithms
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/KarthikVarma19/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/KarthikVarma19/DSA/tree/master/0258-add-digits) |
 ## Recursion
 |  |
@@ -781,4 +784,8 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/KarthikVarma19/DSA/tree/master/1300-critical-connections-in-a-network) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KarthikVarma19/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
