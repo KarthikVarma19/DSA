@@ -75,6 +75,7 @@ Data Structures &amp; Algorithms
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/KarthikVarma19/DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/KarthikVarma19/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2104-operations-on-tree](https://github.com/KarthikVarma19/DSA/tree/master/2104-operations-on-tree) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/KarthikVarma19/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/KarthikVarma19/DSA/tree/master/2107-find-unique-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/KarthikVarma19/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KarthikVarma19/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -674,6 +675,7 @@ Data Structures &amp; Algorithms
 | [1477-product-of-the-last-k-numbers](https://github.com/KarthikVarma19/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/KarthikVarma19/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/KarthikVarma19/DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/KarthikVarma19/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/KarthikVarma19/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2507-number-of-common-factors](https://github.com/KarthikVarma19/DSA/tree/master/2507-number-of-common-factors) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/KarthikVarma19/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -734,6 +736,7 @@ Data Structures &amp; Algorithms
 | ------- |
 | [0204-count-primes](https://github.com/KarthikVarma19/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/KarthikVarma19/DSA/tree/master/0258-add-digits) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/KarthikVarma19/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/KarthikVarma19/DSA/tree/master/2507-number-of-common-factors) |
 | [2831-number-of-beautiful-pairs](https://github.com/KarthikVarma19/DSA/tree/master/2831-number-of-beautiful-pairs) |
 ## Recursion
