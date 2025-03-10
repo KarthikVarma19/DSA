@@ -114,6 +114,7 @@ Data Structures &amp; Algorithms
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/KarthikVarma19/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KarthikVarma19/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/KarthikVarma19/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/KarthikVarma19/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -334,6 +335,7 @@ Data Structures &amp; Algorithms
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/KarthikVarma19/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/KarthikVarma19/DSA/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KarthikVarma19/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/KarthikVarma19/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -528,6 +530,7 @@ Data Structures &amp; Algorithms
 | [1753-path-with-minimum-effort](https://github.com/KarthikVarma19/DSA/tree/master/1753-path-with-minimum-effort) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KarthikVarma19/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarthikVarma19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/KarthikVarma19/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -796,4 +799,8 @@ Data Structures &amp; Algorithms
 | ------- |
 | [0204-count-primes](https://github.com/KarthikVarma19/DSA/tree/master/0204-count-primes) |
 | [2507-number-of-common-factors](https://github.com/KarthikVarma19/DSA/tree/master/2507-number-of-common-factors) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/KarthikVarma19/DSA/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
