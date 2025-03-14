@@ -107,6 +107,7 @@ Data Structures &amp; Algorithms
 | [2831-number-of-beautiful-pairs](https://github.com/KarthikVarma19/DSA/tree/master/2831-number-of-beautiful-pairs) |
 | [3188-find-champion-i](https://github.com/KarthikVarma19/DSA/tree/master/3188-find-champion-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KarthikVarma19/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3221-find-the-peaks](https://github.com/KarthikVarma19/DSA/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KarthikVarma19/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/KarthikVarma19/DSA/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/KarthikVarma19/DSA/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
@@ -809,6 +810,7 @@ Data Structures &amp; Algorithms
 | ------- |
 | [0204-count-primes](https://github.com/KarthikVarma19/DSA/tree/master/0204-count-primes) |
 | [2507-number-of-common-factors](https://github.com/KarthikVarma19/DSA/tree/master/2507-number-of-common-factors) |
+| [3221-find-the-peaks](https://github.com/KarthikVarma19/DSA/tree/master/3221-find-the-peaks) |
 ## Segment Tree
 |  |
 | ------- |
