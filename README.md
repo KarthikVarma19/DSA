@@ -82,6 +82,7 @@ Data Structures &amp; Algorithms
 | [2232-adding-spaces-to-a-string](https://github.com/KarthikVarma19/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KarthikVarma19/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KarthikVarma19/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2308-divide-array-into-equal-pairs](https://github.com/KarthikVarma19/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/KarthikVarma19/DSA/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/KarthikVarma19/DSA/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KarthikVarma19/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -368,6 +369,7 @@ Data Structures &amp; Algorithms
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KarthikVarma19/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2104-operations-on-tree](https://github.com/KarthikVarma19/DSA/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/KarthikVarma19/DSA/tree/master/2107-find-unique-binary-string) |
+| [2308-divide-array-into-equal-pairs](https://github.com/KarthikVarma19/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/KarthikVarma19/DSA/tree/master/2427-first-letter-to-appear-twice) |
 | [2429-design-a-food-rating-system](https://github.com/KarthikVarma19/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/KarthikVarma19/DSA/tree/master/2434-design-a-number-container-system) |
@@ -440,6 +442,7 @@ Data Structures &amp; Algorithms
 | [0795-k-th-symbol-in-grammar](https://github.com/KarthikVarma19/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1054-complement-of-base-10-integer](https://github.com/KarthikVarma19/DSA/tree/master/1054-complement-of-base-10-integer) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/KarthikVarma19/DSA/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [2308-divide-array-into-equal-pairs](https://github.com/KarthikVarma19/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/KarthikVarma19/DSA/tree/master/2427-first-letter-to-appear-twice) |
 | [2509-minimize-xor](https://github.com/KarthikVarma19/DSA/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/KarthikVarma19/DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -458,6 +461,7 @@ Data Structures &amp; Algorithms
 | [1396-count-servers-that-communicate](https://github.com/KarthikVarma19/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/KarthikVarma19/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KarthikVarma19/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2308-divide-array-into-equal-pairs](https://github.com/KarthikVarma19/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/KarthikVarma19/DSA/tree/master/2427-first-letter-to-appear-twice) |
 | [2448-count-number-of-bad-pairs](https://github.com/KarthikVarma19/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KarthikVarma19/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
