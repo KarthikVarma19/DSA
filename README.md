@@ -244,6 +244,7 @@ Data Structures &amp; Algorithms
 | ------- |
 | [0101-symmetric-tree](https://github.com/KarthikVarma19/DSA/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/KarthikVarma19/DSA/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/KarthikVarma19/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/KarthikVarma19/DSA/tree/master/0322-coin-change) |
@@ -347,6 +348,7 @@ Data Structures &amp; Algorithms
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/KarthikVarma19/DSA/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/KarthikVarma19/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KarthikVarma19/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/KarthikVarma19/DSA/tree/master/0208-implement-trie-prefix-tree) |
@@ -392,6 +394,7 @@ Data Structures &amp; Algorithms
 | [0014-longest-common-prefix](https://github.com/KarthikVarma19/DSA/tree/master/0014-longest-common-prefix) |
 | [0087-scramble-string](https://github.com/KarthikVarma19/DSA/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/KarthikVarma19/DSA/tree/master/0091-decode-ways) |
+| [0127-word-ladder](https://github.com/KarthikVarma19/DSA/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/KarthikVarma19/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0171-excel-sheet-column-number](https://github.com/KarthikVarma19/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/KarthikVarma19/DSA/tree/master/0179-largest-number) |
