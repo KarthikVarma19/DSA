@@ -9,8 +9,8 @@ class Solution {
         q.add(new Pair(beginWord, 1));
         words.remove(beginWord);
         while(!q.isEmpty()){
-            String peek = q.peek().a;
-            int level = q.peek().b;
+            String peek = q.peek().a();
+            int level = q.peek().b();
             q.remove();
             if(peek.equals(endWord)){
                 return level;
