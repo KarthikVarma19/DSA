@@ -6,6 +6,7 @@ Data Structures &amp; Algorithms
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/KarthikVarma19/DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/KarthikVarma19/DSA/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/KarthikVarma19/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KarthikVarma19/DSA/tree/master/0059-spiral-matrix-ii) |
@@ -301,6 +302,7 @@ Data Structures &amp; Algorithms
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/KarthikVarma19/DSA/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/KarthikVarma19/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KarthikVarma19/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/KarthikVarma19/DSA/tree/master/0063-unique-paths-ii) |
@@ -349,6 +351,7 @@ Data Structures &amp; Algorithms
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/KarthikVarma19/DSA/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/KarthikVarma19/DSA/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/KarthikVarma19/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KarthikVarma19/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -779,6 +782,7 @@ Data Structures &amp; Algorithms
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/KarthikVarma19/DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/KarthikVarma19/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/KarthikVarma19/DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/KarthikVarma19/DSA/tree/master/0113-path-sum-ii) |
