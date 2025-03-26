@@ -12,6 +12,7 @@ Data Structures &amp; Algorithms
 | [0063-unique-paths-ii](https://github.com/KarthikVarma19/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KarthikVarma19/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/KarthikVarma19/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/KarthikVarma19/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KarthikVarma19/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/KarthikVarma19/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KarthikVarma19/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -441,6 +442,7 @@ Data Structures &amp; Algorithms
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/KarthikVarma19/DSA/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/KarthikVarma19/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/KarthikVarma19/DSA/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -778,6 +780,7 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0046-permutations](https://github.com/KarthikVarma19/DSA/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/KarthikVarma19/DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/KarthikVarma19/DSA/tree/master/0113-path-sum-ii) |
 | [1160-letter-tile-possibilities](https://github.com/KarthikVarma19/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KarthikVarma19/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
