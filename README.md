@@ -14,6 +14,7 @@ Data Structures &amp; Algorithms
 | [0064-minimum-path-sum](https://github.com/KarthikVarma19/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/KarthikVarma19/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/KarthikVarma19/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/KarthikVarma19/DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KarthikVarma19/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/KarthikVarma19/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KarthikVarma19/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -213,6 +214,7 @@ Data Structures &amp; Algorithms
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/KarthikVarma19/DSA/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/KarthikVarma19/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/KarthikVarma19/DSA/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -308,6 +310,7 @@ Data Structures &amp; Algorithms
 | [0063-unique-paths-ii](https://github.com/KarthikVarma19/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KarthikVarma19/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/KarthikVarma19/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/KarthikVarma19/DSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KarthikVarma19/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/KarthikVarma19/DSA/tree/master/0566-reshape-the-matrix) |
 | [0787-sliding-puzzle](https://github.com/KarthikVarma19/DSA/tree/master/0787-sliding-puzzle) |
@@ -396,6 +399,7 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KarthikVarma19/DSA/tree/master/0014-longest-common-prefix) |
+| [0079-word-search](https://github.com/KarthikVarma19/DSA/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/KarthikVarma19/DSA/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/KarthikVarma19/DSA/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/KarthikVarma19/DSA/tree/master/0127-word-ladder) |
@@ -787,6 +791,7 @@ Data Structures &amp; Algorithms
 | [0037-sudoku-solver](https://github.com/KarthikVarma19/DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/KarthikVarma19/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/KarthikVarma19/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/KarthikVarma19/DSA/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/KarthikVarma19/DSA/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/KarthikVarma19/DSA/tree/master/0131-palindrome-partitioning) |
 | [1160-letter-tile-possibilities](https://github.com/KarthikVarma19/DSA/tree/master/1160-letter-tile-possibilities) |
