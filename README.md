@@ -399,6 +399,7 @@ Data Structures &amp; Algorithms
 | [0087-scramble-string](https://github.com/KarthikVarma19/DSA/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/KarthikVarma19/DSA/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/KarthikVarma19/DSA/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/KarthikVarma19/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/KarthikVarma19/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0171-excel-sheet-column-number](https://github.com/KarthikVarma19/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/KarthikVarma19/DSA/tree/master/0179-largest-number) |
@@ -611,6 +612,7 @@ Data Structures &amp; Algorithms
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KarthikVarma19/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KarthikVarma19/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KarthikVarma19/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/KarthikVarma19/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/KarthikVarma19/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KarthikVarma19/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/KarthikVarma19/DSA/tree/master/0198-house-robber) |
@@ -786,6 +788,7 @@ Data Structures &amp; Algorithms
 | [0046-permutations](https://github.com/KarthikVarma19/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/KarthikVarma19/DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/KarthikVarma19/DSA/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/KarthikVarma19/DSA/tree/master/0131-palindrome-partitioning) |
 | [1160-letter-tile-possibilities](https://github.com/KarthikVarma19/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KarthikVarma19/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/KarthikVarma19/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
