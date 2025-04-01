@@ -53,6 +53,7 @@ Data Structures &amp; Algorithms
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KarthikVarma19/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/KarthikVarma19/DSA/tree/master/0952-word-subsets) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/KarthikVarma19/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1080-camelcase-matching](https://github.com/KarthikVarma19/DSA/tree/master/1080-camelcase-matching) |
 | [1121-partition-array-for-maximum-sum](https://github.com/KarthikVarma19/DSA/tree/master/1121-partition-array-for-maximum-sum) |
 | [1127-last-stone-weight](https://github.com/KarthikVarma19/DSA/tree/master/1127-last-stone-weight) |
@@ -556,6 +557,7 @@ Data Structures &amp; Algorithms
 | [0633-sum-of-square-numbers](https://github.com/KarthikVarma19/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0907-koko-eating-bananas](https://github.com/KarthikVarma19/DSA/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/KarthikVarma19/DSA/tree/master/1023-time-based-key-value-store) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/KarthikVarma19/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/KarthikVarma19/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarthikVarma19/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/KarthikVarma19/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
