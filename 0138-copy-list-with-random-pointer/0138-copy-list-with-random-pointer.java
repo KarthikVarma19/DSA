@@ -15,30 +15,37 @@ class Node {
 
 class Solution {
     public Node copyRandomList(Node head) {
-        Node dHead = new Node(-1);
-        Node dummy = dHead;
         Node temp = head;
-        // <original, newlist>
-        HashMap<Node,Node> map = new HashMap<>();
         while(temp != null){
-            dummy.next = new Node(temp.val);
-            dummy = dummy.next;
-            map.put(temp, dummy);
-            temp = temp.next;
+            Node copyNode = new Node(temp.val);
+            Node nextNode = temp.next;
+            temp.next = copyNode;
+            copyNode.next = nextNode;
+            // Jump By + 2
+            temp = temp.next.next;
         }
-        // Removing -1 since we created a dummy node -1 
-        dummy = dHead.next;
-        dHead.next = null;
-        dHead = dummy;
         temp = head;
         while(temp != null){
-            Node rand = temp.random;
-            if(rand != null){
-                dummy.random = map.get(rand);
-            }
-            dummy = dummy.next;
-            temp = temp.next;
+            Node copyNode = temp.next;
+            Node randomeNode = temp.random;
+            // Random Nodes Next is Our Copy Node
+            if(randomeNode != null)
+                copyNode.random = randomeNode.next;
+            // Jumpy By + 2;
+            temp = temp.next.next;
         }
-        return dHead;
+        temp = head;
+        Node newHead = new Node(-1);
+
+        Node newTemp = newHead;
+        System.out.println("yes");
+        while(temp != null){
+            Node copyNode = temp.next;
+            temp.next = temp.next.next;
+            newTemp.next = copyNode;
+            temp = temp.next;
+            newTemp = newTemp.next;
+        }
+        return newHead.next;
     }
 }
