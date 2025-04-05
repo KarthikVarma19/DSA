@@ -38,6 +38,7 @@ Data Structures &amp; Algorithms
 | [0403-frog-jump](https://github.com/KarthikVarma19/DSA/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/KarthikVarma19/DSA/tree/master/0410-split-array-largest-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0493-reverse-pairs](https://github.com/KarthikVarma19/DSA/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/KarthikVarma19/DSA/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/KarthikVarma19/DSA/tree/master/0517-super-washing-machines) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/KarthikVarma19/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -560,6 +561,7 @@ Data Structures &amp; Algorithms
 | [0300-longest-increasing-subsequence](https://github.com/KarthikVarma19/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/KarthikVarma19/DSA/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/KarthikVarma19/DSA/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/KarthikVarma19/DSA/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/KarthikVarma19/DSA/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/KarthikVarma19/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0907-koko-eating-bananas](https://github.com/KarthikVarma19/DSA/tree/master/0907-koko-eating-bananas) |
@@ -732,12 +734,14 @@ Data Structures &amp; Algorithms
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KarthikVarma19/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/KarthikVarma19/DSA/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KarthikVarma19/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/KarthikVarma19/DSA/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -839,6 +843,7 @@ Data Structures &amp; Algorithms
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/KarthikVarma19/DSA/tree/master/0493-reverse-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/KarthikVarma19/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/KarthikVarma19/DSA/tree/master/2434-design-a-number-container-system) |
 ## Quickselect
@@ -858,5 +863,10 @@ Data Structures &amp; Algorithms
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/KarthikVarma19/DSA/tree/master/0493-reverse-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/KarthikVarma19/DSA/tree/master/3790-fruits-into-baskets-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/KarthikVarma19/DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
