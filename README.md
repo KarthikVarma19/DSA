@@ -364,6 +364,7 @@ Data Structures &amp; Algorithms
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/KarthikVarma19/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KarthikVarma19/DSA/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/KarthikVarma19/DSA/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/KarthikVarma19/DSA/tree/master/0127-word-ladder) |
@@ -410,6 +411,7 @@ Data Structures &amp; Algorithms
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/KarthikVarma19/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KarthikVarma19/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/KarthikVarma19/DSA/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/KarthikVarma19/DSA/tree/master/0079-word-search) |
@@ -715,6 +717,7 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KarthikVarma19/DSA/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/KarthikVarma19/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KarthikVarma19/DSA/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/KarthikVarma19/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/KarthikVarma19/DSA/tree/master/0069-sqrtx) |
