@@ -420,6 +420,7 @@ Data Structures &amp; Algorithms
 | [0127-word-ladder](https://github.com/KarthikVarma19/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/KarthikVarma19/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/KarthikVarma19/DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/KarthikVarma19/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/KarthikVarma19/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/KarthikVarma19/DSA/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/KarthikVarma19/DSA/tree/master/0208-implement-trie-prefix-tree) |
@@ -516,6 +517,7 @@ Data Structures &amp; Algorithms
 | [0088-merge-sorted-array](https://github.com/KarthikVarma19/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/KarthikVarma19/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KarthikVarma19/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/KarthikVarma19/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KarthikVarma19/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/KarthikVarma19/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/KarthikVarma19/DSA/tree/master/0392-is-subsequence) |
