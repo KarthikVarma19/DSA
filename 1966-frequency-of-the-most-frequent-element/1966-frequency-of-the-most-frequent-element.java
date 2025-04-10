@@ -8,13 +8,13 @@ class Solution {
             //if greater than k operaions shrink the window
             long cur = (long)nums[j];
             curSum += cur;
-            if(((long)(nums[j]*(long)(j-i+1))-curSum) > k){
+            while(((long)(nums[j]*(long)(j-i+1))-curSum) > k){
                 curSum -= (long)nums[i];
                 i++;
             }
             ans = Math.max(ans, (j-i+1));
             j++;
         }
-        return n-i;
+        return ans;
     }
 }
