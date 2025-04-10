@@ -84,6 +84,7 @@ Data Structures &amp; Algorithms
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/KarthikVarma19/DSA/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KarthikVarma19/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KarthikVarma19/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/KarthikVarma19/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1972-rotating-the-box](https://github.com/KarthikVarma19/DSA/tree/master/1972-rotating-the-box) |
 | [2047-find-a-peak-element-ii](https://github.com/KarthikVarma19/DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/KarthikVarma19/DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -555,6 +556,7 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/KarthikVarma19/DSA/tree/master/1755-defuse-the-bomb) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/KarthikVarma19/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KarthikVarma19/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Binary Search
 |  |
@@ -583,6 +585,7 @@ Data Structures &amp; Algorithms
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/KarthikVarma19/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/KarthikVarma19/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/KarthikVarma19/DSA/tree/master/1753-path-with-minimum-effort) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/KarthikVarma19/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/KarthikVarma19/DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KarthikVarma19/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarthikVarma19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -692,6 +695,7 @@ Data Structures &amp; Algorithms
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KarthikVarma19/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/KarthikVarma19/DSA/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1502-construct-k-palindrome-strings](https://github.com/KarthikVarma19/DSA/tree/master/1502-construct-k-palindrome-strings) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/KarthikVarma19/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/KarthikVarma19/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/KarthikVarma19/DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/KarthikVarma19/DSA/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -712,6 +716,7 @@ Data Structures &amp; Algorithms
 | [0948-sort-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarthikVarma19/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KarthikVarma19/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/KarthikVarma19/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KarthikVarma19/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2543-most-popular-video-creator](https://github.com/KarthikVarma19/DSA/tree/master/2543-most-popular-video-creator) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarthikVarma19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -822,6 +827,7 @@ Data Structures &amp; Algorithms
 | [1477-product-of-the-last-k-numbers](https://github.com/KarthikVarma19/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/KarthikVarma19/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KarthikVarma19/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/KarthikVarma19/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2358-number-of-ways-to-split-array](https://github.com/KarthikVarma19/DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/KarthikVarma19/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Backtracking
