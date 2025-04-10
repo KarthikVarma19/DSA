@@ -8,16 +8,17 @@ class Solution {
             if(nums[right] == 0){
                 countz++;
             }
-            while(countz > 1){
+            if(countz > 1){
                 if(nums[left] == 0){
                     countz--;
                 }
                 left++;
             }
-            ans = Math.max(ans, (right - left + 1));
+            // if(countz <= 1)
+            //     ans = Math.max(ans, (right - left + 1));
             right++;
         }
         // since i must delete one element 
-        return ans-1;
+        return n-left-1;
     }
 }
