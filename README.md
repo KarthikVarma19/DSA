@@ -59,6 +59,7 @@ Data Structures &amp; Algorithms
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KarthikVarma19/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/KarthikVarma19/DSA/tree/master/0952-word-subsets) |
+| [1025-minimum-cost-for-tickets](https://github.com/KarthikVarma19/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/KarthikVarma19/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1080-camelcase-matching](https://github.com/KarthikVarma19/DSA/tree/master/1080-camelcase-matching) |
 | [1121-partition-array-for-maximum-sum](https://github.com/KarthikVarma19/DSA/tree/master/1121-partition-array-for-maximum-sum) |
@@ -677,6 +678,7 @@ Data Structures &amp; Algorithms
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KarthikVarma19/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/KarthikVarma19/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/KarthikVarma19/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1025-minimum-cost-for-tickets](https://github.com/KarthikVarma19/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/KarthikVarma19/DSA/tree/master/1121-partition-array-for-maximum-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KarthikVarma19/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KarthikVarma19/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
