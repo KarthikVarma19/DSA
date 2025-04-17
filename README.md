@@ -112,6 +112,7 @@ Data Structures &amp; Algorithms
 | [2533-bitwise-xor-of-all-pairings](https://github.com/KarthikVarma19/DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2543-most-popular-video-creator](https://github.com/KarthikVarma19/DSA/tree/master/2543-most-popular-video-creator) |
 | [2551-apply-operations-to-an-array](https://github.com/KarthikVarma19/DSA/tree/master/2551-apply-operations-to-an-array) |
+| [2591-frog-jump-ii](https://github.com/KarthikVarma19/DSA/tree/master/2591-frog-jump-ii) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/KarthikVarma19/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KarthikVarma19/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarthikVarma19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -600,6 +601,7 @@ Data Structures &amp; Algorithms
 | [1753-path-with-minimum-effort](https://github.com/KarthikVarma19/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/KarthikVarma19/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/KarthikVarma19/DSA/tree/master/2047-find-a-peak-element-ii) |
+| [2591-frog-jump-ii](https://github.com/KarthikVarma19/DSA/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KarthikVarma19/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarthikVarma19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/KarthikVarma19/DSA/tree/master/3790-fruits-into-baskets-ii) |
@@ -716,6 +718,7 @@ Data Structures &amp; Algorithms
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/KarthikVarma19/DSA/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/KarthikVarma19/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/KarthikVarma19/DSA/tree/master/2509-minimize-xor) |
+| [2591-frog-jump-ii](https://github.com/KarthikVarma19/DSA/tree/master/2591-frog-jump-ii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarthikVarma19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
