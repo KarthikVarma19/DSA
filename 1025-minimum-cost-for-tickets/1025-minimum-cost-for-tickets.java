@@ -1,11 +1,12 @@
 class Solution {
     public int mincostTickets(int[] days, int[] costs) {
         int n = days.length;
-        int dp[][] = new int[n][367];
+        int lastDay = days[n-1];
+        int dp[][] = new int[n][lastDay+2];
         for(int i = 0; i < n; i++){
             Arrays.fill(dp[i], -1);
         }
-        return solve(n-1, 366, days, costs, dp);
+        return solve(n-1, lastDay+1, days, costs, dp);
     }
     public int solve(int ind, int valid, int days[], int costs[], int dp[][]){
         if(ind == 0){
