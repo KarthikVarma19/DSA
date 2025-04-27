@@ -139,6 +139,7 @@ Data Structures &amp; Algorithms
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/KarthikVarma19/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KarthikVarma19/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/KarthikVarma19/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/KarthikVarma19/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3790-fruits-into-baskets-ii](https://github.com/KarthikVarma19/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Linked List
 |  |
