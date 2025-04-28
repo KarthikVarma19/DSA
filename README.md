@@ -160,6 +160,7 @@ Data Structures &amp; Algorithms
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/KarthikVarma19/DSA/tree/master/0155-min-stack) |
 | [0654-maximum-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0654-maximum-binary-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KarthikVarma19/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KarthikVarma19/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -171,6 +172,7 @@ Data Structures &amp; Algorithms
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/KarthikVarma19/DSA/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/KarthikVarma19/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/KarthikVarma19/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/KarthikVarma19/DSA/tree/master/0295-find-median-from-data-stream) |
