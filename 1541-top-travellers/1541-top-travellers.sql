@@ -1,9 +1,6 @@
 SELECT 
     u.name, 
-    CASE 
-        WHEN r.travelled_distance IS NULL THEN 0 
-        ELSE r.travelled_distance 
-    END AS travelled_distance
+    COALESCE(r.travelled_distance, 0) AS travelled_distance
 FROM 
     Users u
 LEFT JOIN
