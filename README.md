@@ -530,6 +530,7 @@ Data Structures &amp; Algorithms
 | [0197-rising-temperature](https://github.com/KarthikVarma19/DSA/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/KarthikVarma19/DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0608-tree-node](https://github.com/KarthikVarma19/DSA/tree/master/0608-tree-node) |
+| [0626-exchange-seats](https://github.com/KarthikVarma19/DSA/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/KarthikVarma19/DSA/tree/master/1135-customers-who-bought-all-products) |
 | [1415-students-and-examinations](https://github.com/KarthikVarma19/DSA/tree/master/1415-students-and-examinations) |
 | [1541-top-travellers](https://github.com/KarthikVarma19/DSA/tree/master/1541-top-travellers) |
