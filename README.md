@@ -19,6 +19,7 @@ Data Structures &amp; Algorithms
 | [0078-subsets](https://github.com/KarthikVarma19/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/KarthikVarma19/DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KarthikVarma19/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/KarthikVarma19/DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/KarthikVarma19/DSA/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/KarthikVarma19/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KarthikVarma19/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -160,6 +161,7 @@ Data Structures &amp; Algorithms
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/KarthikVarma19/DSA/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/KarthikVarma19/DSA/tree/master/0155-min-stack) |
 | [0654-maximum-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0654-maximum-binary-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KarthikVarma19/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -332,6 +334,7 @@ Data Structures &amp; Algorithms
 | [0064-minimum-path-sum](https://github.com/KarthikVarma19/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/KarthikVarma19/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/KarthikVarma19/DSA/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/KarthikVarma19/DSA/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KarthikVarma19/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/KarthikVarma19/DSA/tree/master/0566-reshape-the-matrix) |
 | [0787-sliding-puzzle](https://github.com/KarthikVarma19/DSA/tree/master/0787-sliding-puzzle) |
@@ -669,6 +672,7 @@ Data Structures &amp; Algorithms
 | [0063-unique-paths-ii](https://github.com/KarthikVarma19/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KarthikVarma19/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/KarthikVarma19/DSA/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/KarthikVarma19/DSA/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/KarthikVarma19/DSA/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/KarthikVarma19/DSA/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/KarthikVarma19/DSA/tree/master/0120-triangle) |
@@ -817,6 +821,7 @@ Data Structures &amp; Algorithms
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/KarthikVarma19/DSA/tree/master/0085-maximal-rectangle) |
 | [0654-maximum-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0654-maximum-binary-tree) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KarthikVarma19/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search Tree
