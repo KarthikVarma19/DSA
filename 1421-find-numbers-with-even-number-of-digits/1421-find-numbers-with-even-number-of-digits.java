@@ -2,14 +2,12 @@ class Solution {
     public int findNumbers(int[] nums) {
         int count = 0;
         for(int num: nums){
-            if(evenDigits(num) == true){
+            if((num >= 10 && num <= 99) || (num >= 1000 && num <= 9999) ||
+            (num == 100000)){
                 count++;
             }
         }
         return count;
     }
-    public boolean evenDigits(int val){
-        String num = String.valueOf(val);
-        return num.length()%2==0;
-    }
+
 }
