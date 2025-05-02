@@ -15,6 +15,7 @@ class Solution {
             forces[i] = force;
         }
         force = 0;
+        char ans[] = new char[n];
         for(int i = n-1; i >= 0; i--){
             if(ch[i] == 'L'){
                 force = n;
@@ -24,9 +25,6 @@ class Solution {
                 force = Math.max(force-1, 0);
             }
             forces[i] -= force;
-        }
-        char ans[] = new char[n];
-        for(int i = 0; i < n; i++){
             if(forces[i] > 0){
                 ans[i] = 'R';
             }else if(forces[i] < 0){
@@ -35,6 +33,7 @@ class Solution {
                 ans[i] = '.';
             }
         }
+        
         return new String(ans);
     }
 }
