@@ -545,6 +545,7 @@ Data Structures &amp; Algorithms
 | [1523-capital-gainloss](https://github.com/KarthikVarma19/DSA/tree/master/1523-capital-gainloss) |
 | [1541-top-travellers](https://github.com/KarthikVarma19/DSA/tree/master/1541-top-travellers) |
 | [2087-confirmation-rate](https://github.com/KarthikVarma19/DSA/tree/master/2087-confirmation-rate) |
+| [3530-odd-and-even-transactions](https://github.com/KarthikVarma19/DSA/tree/master/3530-odd-and-even-transactions) |
 | [3816-dna-pattern-recognition](https://github.com/KarthikVarma19/DSA/tree/master/3816-dna-pattern-recognition) |
 ## Two Pointers
 |  |
