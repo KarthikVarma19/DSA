@@ -13,17 +13,20 @@ class Solution {
             int size = q.size();
             for(int i = 0; i < size; i++){
                 TreeNode peeek = q.poll();
-                if(flag == false){
-                    level.add(0, peeek.val);
-                }else{
-                    level.add(peeek.val);
-                }
+                level.add(peeek.val);
                 if(peeek.left != null){
                     q.add(peeek.left);
                 }
                 if(peeek.right != null){
                     q.add(peeek.right);
                 }
+            }
+            if(flag == false){
+                ArrayList<Integer> zagList = new ArrayList<>();
+                for(int i = level.size()-1; i >= 0; i--){
+                    zagList.add(level.get(i));
+                }
+                level = zagList;
             }
             flag = !flag;
             ans.add(level);
