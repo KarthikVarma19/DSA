@@ -211,6 +211,7 @@ Data Structures &amp; Algorithms
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KarthikVarma19/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/KarthikVarma19/DSA/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KarthikVarma19/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/KarthikVarma19/DSA/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KarthikVarma19/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -273,6 +274,7 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/KarthikVarma19/DSA/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KarthikVarma19/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/KarthikVarma19/DSA/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/KarthikVarma19/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -303,6 +305,7 @@ Data Structures &amp; Algorithms
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KarthikVarma19/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/KarthikVarma19/DSA/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KarthikVarma19/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/KarthikVarma19/DSA/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KarthikVarma19/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
