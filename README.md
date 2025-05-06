@@ -542,6 +542,7 @@ Data Structures &amp; Algorithms
 | [1135-customers-who-bought-all-products](https://github.com/KarthikVarma19/DSA/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/KarthikVarma19/DSA/tree/master/1155-product-sales-analysis-iii) |
 | [1415-students-and-examinations](https://github.com/KarthikVarma19/DSA/tree/master/1415-students-and-examinations) |
+| [1480-movie-rating](https://github.com/KarthikVarma19/DSA/tree/master/1480-movie-rating) |
 | [1523-capital-gainloss](https://github.com/KarthikVarma19/DSA/tree/master/1523-capital-gainloss) |
 | [1541-top-travellers](https://github.com/KarthikVarma19/DSA/tree/master/1541-top-travellers) |
 | [2087-confirmation-rate](https://github.com/KarthikVarma19/DSA/tree/master/2087-confirmation-rate) |
