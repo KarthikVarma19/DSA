@@ -543,6 +543,7 @@ Data Structures &amp; Algorithms
 | [0184-department-highest-salary](https://github.com/KarthikVarma19/DSA/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/KarthikVarma19/DSA/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/KarthikVarma19/DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/KarthikVarma19/DSA/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0608-tree-node](https://github.com/KarthikVarma19/DSA/tree/master/0608-tree-node) |
 | [0626-exchange-seats](https://github.com/KarthikVarma19/DSA/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/KarthikVarma19/DSA/tree/master/1135-customers-who-bought-all-products) |
