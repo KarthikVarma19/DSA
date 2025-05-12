@@ -1,27 +1,33 @@
 class Solution {
     
     public int[] findEvenNumbers(int[] digits) {
-        Set<Integer> st = new TreeSet<>();
-        int n = digits.length;
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < n; j++){
-                if(i == j) continue;
-                for(int k = 0; k < n; k++){ 
-                    if(i == k || j == k || (digits[k]&1) == 1){
-                        continue;
-                    }
-                    int sum = (digits[i] * 100) +  (digits[j] * 10) + (digits[k]);
-                    if((sum/100) != 0){
-                        st.add(sum);
-                    }
-                }
-            }
+        int freq[] = new int[10];
+        for(int i = 0; i < digits.length; i++){
+            freq[digits[i]]++;
         }
-        int size = st.size();
-        int ans[] = new int[size];
-        int fi = 0;
-        for(Integer each: st){
-            ans[fi++] = each;
+        // Possible Answer Space Lies Between 100 to 999
+        ArrayList<Integer> ls = new ArrayList<>();
+        for(int num = 100; num < 999; num+=2){
+            int temp = num;
+            int d3 = temp % 10;
+            temp /= 10;
+            int d2 = temp % 10;
+            temp /= 10;
+            int d1 = temp;
+            freq[d1]--;
+            freq[d2]--;
+            freq[d3]--;
+            if(freq[d1] >= 0 && freq[d2] >= 0 && freq[d3] >= 0){
+                ls.add(num);
+            }
+            freq[d1]++;
+            freq[d2]++;
+            freq[d3]++;
+        }
+        int ans[] = new int[ls.size()];
+        int size = ls.size();
+        for(int i = 0; i < size; i++){
+            ans[i] = ls.get(i);
         }
         return ans;
     }
