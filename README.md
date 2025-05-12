@@ -101,6 +101,7 @@ Data Structures &amp; Algorithms
 | [2104-operations-on-tree](https://github.com/KarthikVarma19/DSA/tree/master/2104-operations-on-tree) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/KarthikVarma19/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/KarthikVarma19/DSA/tree/master/2107-find-unique-binary-string) |
+| [2215-finding-3-digit-even-numbers](https://github.com/KarthikVarma19/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2232-adding-spaces-to-a-string](https://github.com/KarthikVarma19/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KarthikVarma19/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/KarthikVarma19/DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -414,6 +415,7 @@ Data Structures &amp; Algorithms
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KarthikVarma19/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2104-operations-on-tree](https://github.com/KarthikVarma19/DSA/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/KarthikVarma19/DSA/tree/master/2107-find-unique-binary-string) |
+| [2215-finding-3-digit-even-numbers](https://github.com/KarthikVarma19/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/KarthikVarma19/DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KarthikVarma19/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/KarthikVarma19/DSA/tree/master/2427-first-letter-to-appear-twice) |
@@ -775,6 +777,7 @@ Data Structures &amp; Algorithms
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarthikVarma19/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KarthikVarma19/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/KarthikVarma19/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2215-finding-3-digit-even-numbers](https://github.com/KarthikVarma19/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KarthikVarma19/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2543-most-popular-video-creator](https://github.com/KarthikVarma19/DSA/tree/master/2543-most-popular-video-creator) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarthikVarma19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -942,6 +945,7 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KarthikVarma19/DSA/tree/master/0204-count-primes) |
+| [2215-finding-3-digit-even-numbers](https://github.com/KarthikVarma19/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2507-number-of-common-factors](https://github.com/KarthikVarma19/DSA/tree/master/2507-number-of-common-factors) |
 | [3221-find-the-peaks](https://github.com/KarthikVarma19/DSA/tree/master/3221-find-the-peaks) |
 ## Segment Tree
