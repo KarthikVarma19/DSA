@@ -5,14 +5,12 @@ class Solution {
         int n = digits.length;
         for(int i = 0; i < n; i++){
             for(int j = 0; j < n; j++){
+                if(i == j) continue;
                 for(int k = 0; k < n; k++){ 
-                    if(i == j || i == k || j == k || (digits[k]&1) == 1){
+                    if(i == k || j == k || (digits[k]&1) == 1){
                         continue;
                     }
-                    int sum = 0;
-                    sum += (digits[i] * 100);
-                    sum += (digits[j] * 10);
-                    sum += digits[k];
+                    int sum = (digits[i] * 100) +  (digits[j] * 10) + (digits[k]);
                     if((sum/100) != 0){
                         st.add(sum);
                     }
