@@ -440,6 +440,7 @@ Data Structures &amp; Algorithms
 | [0012-integer-to-roman](https://github.com/KarthikVarma19/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KarthikVarma19/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/KarthikVarma19/DSA/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/KarthikVarma19/DSA/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/KarthikVarma19/DSA/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/KarthikVarma19/DSA/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/KarthikVarma19/DSA/tree/master/0091-decode-ways) |
