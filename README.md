@@ -552,6 +552,7 @@ Data Structures &amp; Algorithms
 | [0626-exchange-seats](https://github.com/KarthikVarma19/DSA/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/KarthikVarma19/DSA/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/KarthikVarma19/DSA/tree/master/1155-product-sales-analysis-iii) |
+| [1268-market-analysis-i](https://github.com/KarthikVarma19/DSA/tree/master/1268-market-analysis-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/KarthikVarma19/DSA/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1415-students-and-examinations](https://github.com/KarthikVarma19/DSA/tree/master/1415-students-and-examinations) |
 | [1480-movie-rating](https://github.com/KarthikVarma19/DSA/tree/master/1480-movie-rating) |
