@@ -21,6 +21,7 @@ Data Structures &amp; Algorithms
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KarthikVarma19/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/KarthikVarma19/DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/KarthikVarma19/DSA/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/KarthikVarma19/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/KarthikVarma19/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KarthikVarma19/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KarthikVarma19/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -696,6 +697,7 @@ Data Structures &amp; Algorithms
 | [0085-maximal-rectangle](https://github.com/KarthikVarma19/DSA/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/KarthikVarma19/DSA/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/KarthikVarma19/DSA/tree/master/0091-decode-ways) |
+| [0119-pascals-triangle-ii](https://github.com/KarthikVarma19/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/KarthikVarma19/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KarthikVarma19/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KarthikVarma19/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
