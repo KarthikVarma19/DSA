@@ -21,6 +21,7 @@ Data Structures &amp; Algorithms
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KarthikVarma19/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/KarthikVarma19/DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/KarthikVarma19/DSA/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KarthikVarma19/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/KarthikVarma19/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/KarthikVarma19/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KarthikVarma19/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -214,6 +215,7 @@ Data Structures &amp; Algorithms
 | [0098-validate-binary-search-tree](https://github.com/KarthikVarma19/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/KarthikVarma19/DSA/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KarthikVarma19/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KarthikVarma19/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/KarthikVarma19/DSA/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KarthikVarma19/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -308,6 +310,7 @@ Data Structures &amp; Algorithms
 | [0098-validate-binary-search-tree](https://github.com/KarthikVarma19/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/KarthikVarma19/DSA/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KarthikVarma19/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KarthikVarma19/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/KarthikVarma19/DSA/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KarthikVarma19/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -819,6 +822,7 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KarthikVarma19/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KarthikVarma19/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KarthikVarma19/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/KarthikVarma19/DSA/tree/master/0493-reverse-pairs) |
@@ -856,6 +860,7 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KarthikVarma19/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KarthikVarma19/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KarthikVarma19/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KarthikVarma19/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Trie
