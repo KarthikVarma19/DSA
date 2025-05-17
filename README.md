@@ -56,6 +56,7 @@ Data Structures &amp; Algorithms
 | [0674-longest-continuous-increasing-subsequence](https://github.com/KarthikVarma19/DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KarthikVarma19/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0720-longest-word-in-dictionary](https://github.com/KarthikVarma19/DSA/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/KarthikVarma19/DSA/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/KarthikVarma19/DSA/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/KarthikVarma19/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/KarthikVarma19/DSA/tree/master/0787-sliding-puzzle) |
@@ -259,6 +260,7 @@ Data Structures &amp; Algorithms
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KarthikVarma19/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/KarthikVarma19/DSA/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/KarthikVarma19/DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/KarthikVarma19/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/KarthikVarma19/DSA/tree/master/0820-find-eventual-safe-states) |
@@ -288,6 +290,7 @@ Data Structures &amp; Algorithms
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KarthikVarma19/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/KarthikVarma19/DSA/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/KarthikVarma19/DSA/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/KarthikVarma19/DSA/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0787-sliding-puzzle](https://github.com/KarthikVarma19/DSA/tree/master/0787-sliding-puzzle) |
@@ -406,6 +409,7 @@ Data Structures &amp; Algorithms
 | [0387-first-unique-character-in-a-string](https://github.com/KarthikVarma19/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/KarthikVarma19/DSA/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/KarthikVarma19/DSA/tree/master/0721-accounts-merge) |
 | [0837-most-common-word](https://github.com/KarthikVarma19/DSA/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/KarthikVarma19/DSA/tree/master/0889-buddy-strings) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -467,6 +471,7 @@ Data Structures &amp; Algorithms
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/KarthikVarma19/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0657-robot-return-to-origin](https://github.com/KarthikVarma19/DSA/tree/master/0657-robot-return-to-origin) |
 | [0720-longest-word-in-dictionary](https://github.com/KarthikVarma19/DSA/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/KarthikVarma19/DSA/tree/master/0721-accounts-merge) |
 | [0837-most-common-word](https://github.com/KarthikVarma19/DSA/tree/master/0837-most-common-word) |
 | [0868-push-dominoes](https://github.com/KarthikVarma19/DSA/tree/master/0868-push-dominoes) |
 | [0889-buddy-strings](https://github.com/KarthikVarma19/DSA/tree/master/0889-buddy-strings) |
@@ -653,6 +658,7 @@ Data Structures &amp; Algorithms
 ## Union Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/KarthikVarma19/DSA/tree/master/0721-accounts-merge) |
 | [1396-count-servers-that-communicate](https://github.com/KarthikVarma19/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/KarthikVarma19/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/KarthikVarma19/DSA/tree/master/1753-path-with-minimum-effort) |
@@ -783,6 +789,7 @@ Data Structures &amp; Algorithms
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/KarthikVarma19/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0611-valid-triangle-number](https://github.com/KarthikVarma19/DSA/tree/master/0611-valid-triangle-number) |
 | [0720-longest-word-in-dictionary](https://github.com/KarthikVarma19/DSA/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/KarthikVarma19/DSA/tree/master/0721-accounts-merge) |
 | [0948-sort-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0948-sort-an-array) |
 | [1397-search-suggestions-system](https://github.com/KarthikVarma19/DSA/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarthikVarma19/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
