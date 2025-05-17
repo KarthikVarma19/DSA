@@ -270,6 +270,7 @@ Data Structures &amp; Algorithms
 | [1300-critical-connections-in-a-network](https://github.com/KarthikVarma19/DSA/tree/master/1300-critical-connections-in-a-network) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/KarthikVarma19/DSA/tree/master/1396-count-servers-that-communicate) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/KarthikVarma19/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/KarthikVarma19/DSA/tree/master/1753-path-with-minimum-effort) |
 | [2104-operations-on-tree](https://github.com/KarthikVarma19/DSA/tree/master/2104-operations-on-tree) |
@@ -297,6 +298,7 @@ Data Structures &amp; Algorithms
 | [1254-deepest-leaves-sum](https://github.com/KarthikVarma19/DSA/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/KarthikVarma19/DSA/tree/master/1396-count-servers-that-communicate) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/KarthikVarma19/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/KarthikVarma19/DSA/tree/master/1731-even-odd-tree) |
 | [1753-path-with-minimum-effort](https://github.com/KarthikVarma19/DSA/tree/master/1753-path-with-minimum-effort) |
@@ -600,6 +602,7 @@ Data Structures &amp; Algorithms
 | [0803-cheapest-flights-within-k-stops](https://github.com/KarthikVarma19/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/KarthikVarma19/DSA/tree/master/0820-find-eventual-safe-states) |
 | [1300-critical-connections-in-a-network](https://github.com/KarthikVarma19/DSA/tree/master/1300-critical-connections-in-a-network) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/KarthikVarma19/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KarthikVarma19/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/KarthikVarma19/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KarthikVarma19/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -651,6 +654,7 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/KarthikVarma19/DSA/tree/master/1396-count-servers-that-communicate) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/KarthikVarma19/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/KarthikVarma19/DSA/tree/master/1753-path-with-minimum-effort) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KarthikVarma19/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Heap (Priority Queue)
