@@ -65,6 +65,7 @@ Data Structures &amp; Algorithms
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KarthikVarma19/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/KarthikVarma19/DSA/tree/master/0952-word-subsets) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/KarthikVarma19/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1025-minimum-cost-for-tickets](https://github.com/KarthikVarma19/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/KarthikVarma19/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1080-camelcase-matching](https://github.com/KarthikVarma19/DSA/tree/master/1080-camelcase-matching) |
@@ -379,6 +380,7 @@ Data Structures &amp; Algorithms
 | [0258-add-digits](https://github.com/KarthikVarma19/DSA/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/KarthikVarma19/DSA/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/KarthikVarma19/DSA/tree/master/0657-robot-return-to-origin) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/KarthikVarma19/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2048-build-array-from-permutation](https://github.com/KarthikVarma19/DSA/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/KarthikVarma19/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KarthikVarma19/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -550,6 +552,7 @@ Data Structures &amp; Algorithms
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KarthikVarma19/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/KarthikVarma19/DSA/tree/master/0969-number-of-recent-calls) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/KarthikVarma19/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Database
 |  |
 | ------- |
@@ -791,6 +794,7 @@ Data Structures &amp; Algorithms
 | [0720-longest-word-in-dictionary](https://github.com/KarthikVarma19/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/KarthikVarma19/DSA/tree/master/0721-accounts-merge) |
 | [0948-sort-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0948-sort-an-array) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/KarthikVarma19/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1397-search-suggestions-system](https://github.com/KarthikVarma19/DSA/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarthikVarma19/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KarthikVarma19/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
