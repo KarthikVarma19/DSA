@@ -60,6 +60,7 @@ Data Structures &amp; Algorithms
 | [0724-find-pivot-index](https://github.com/KarthikVarma19/DSA/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/KarthikVarma19/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/KarthikVarma19/DSA/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/KarthikVarma19/DSA/tree/master/0794-swim-in-rising-water) |
 | [0837-most-common-word](https://github.com/KarthikVarma19/DSA/tree/master/0837-most-common-word) |
 | [0854-making-a-large-island](https://github.com/KarthikVarma19/DSA/tree/master/0854-making-a-large-island) |
 | [0907-koko-eating-bananas](https://github.com/KarthikVarma19/DSA/tree/master/0907-koko-eating-bananas) |
@@ -264,6 +265,7 @@ Data Structures &amp; Algorithms
 | [0662-maximum-width-of-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/KarthikVarma19/DSA/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/KarthikVarma19/DSA/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/KarthikVarma19/DSA/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/KarthikVarma19/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/KarthikVarma19/DSA/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/KarthikVarma19/DSA/tree/master/0854-making-a-large-island) |
@@ -297,6 +299,7 @@ Data Structures &amp; Algorithms
 | [0744-network-delay-time](https://github.com/KarthikVarma19/DSA/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/KarthikVarma19/DSA/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0787-sliding-puzzle](https://github.com/KarthikVarma19/DSA/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/KarthikVarma19/DSA/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/KarthikVarma19/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/KarthikVarma19/DSA/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/KarthikVarma19/DSA/tree/master/0854-making-a-large-island) |
@@ -359,6 +362,7 @@ Data Structures &amp; Algorithms
 | [0240-search-a-2d-matrix-ii](https://github.com/KarthikVarma19/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/KarthikVarma19/DSA/tree/master/0566-reshape-the-matrix) |
 | [0787-sliding-puzzle](https://github.com/KarthikVarma19/DSA/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/KarthikVarma19/DSA/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/KarthikVarma19/DSA/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/KarthikVarma19/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/KarthikVarma19/DSA/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
@@ -647,6 +651,7 @@ Data Structures &amp; Algorithms
 | [0493-reverse-pairs](https://github.com/KarthikVarma19/DSA/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/KarthikVarma19/DSA/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/KarthikVarma19/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0794-swim-in-rising-water](https://github.com/KarthikVarma19/DSA/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/KarthikVarma19/DSA/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/KarthikVarma19/DSA/tree/master/1023-time-based-key-value-store) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/KarthikVarma19/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -666,6 +671,7 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/KarthikVarma19/DSA/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/KarthikVarma19/DSA/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/KarthikVarma19/DSA/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/KarthikVarma19/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/KarthikVarma19/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -680,6 +686,7 @@ Data Structures &amp; Algorithms
 | [0502-ipo](https://github.com/KarthikVarma19/DSA/tree/master/0502-ipo) |
 | [0744-network-delay-time](https://github.com/KarthikVarma19/DSA/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KarthikVarma19/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/KarthikVarma19/DSA/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/KarthikVarma19/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/KarthikVarma19/DSA/tree/master/1127-last-stone-weight) |
