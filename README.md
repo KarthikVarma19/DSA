@@ -15,6 +15,7 @@ Data Structures &amp; Algorithms
 | [0059-spiral-matrix-ii](https://github.com/KarthikVarma19/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/KarthikVarma19/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KarthikVarma19/DSA/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/KarthikVarma19/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KarthikVarma19/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/KarthikVarma19/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/KarthikVarma19/DSA/tree/master/0079-word-search) |
@@ -355,6 +356,7 @@ Data Structures &amp; Algorithms
 | [0059-spiral-matrix-ii](https://github.com/KarthikVarma19/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/KarthikVarma19/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KarthikVarma19/DSA/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/KarthikVarma19/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KarthikVarma19/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/KarthikVarma19/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/KarthikVarma19/DSA/tree/master/0085-maximal-rectangle) |
@@ -409,6 +411,7 @@ Data Structures &amp; Algorithms
 | [0012-integer-to-roman](https://github.com/KarthikVarma19/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KarthikVarma19/DSA/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/KarthikVarma19/DSA/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/KarthikVarma19/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/KarthikVarma19/DSA/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/KarthikVarma19/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/KarthikVarma19/DSA/tree/master/0141-linked-list-cycle) |
