@@ -140,6 +140,7 @@ Data Structures &amp; Algorithms
 | [2792-neighboring-bitwise-xor](https://github.com/KarthikVarma19/DSA/tree/master/2792-neighboring-bitwise-xor) |
 | [2831-number-of-beautiful-pairs](https://github.com/KarthikVarma19/DSA/tree/master/2831-number-of-beautiful-pairs) |
 | [3188-find-champion-i](https://github.com/KarthikVarma19/DSA/tree/master/3188-find-champion-i) |
+| [3194-find-words-containing-character](https://github.com/KarthikVarma19/DSA/tree/master/3194-find-words-containing-character) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KarthikVarma19/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3221-find-the-peaks](https://github.com/KarthikVarma19/DSA/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KarthikVarma19/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -517,6 +518,7 @@ Data Structures &amp; Algorithms
 | [2691-count-vowel-strings-in-ranges](https://github.com/KarthikVarma19/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/KarthikVarma19/DSA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3019-furthest-point-from-origin](https://github.com/KarthikVarma19/DSA/tree/master/3019-furthest-point-from-origin) |
+| [3194-find-words-containing-character](https://github.com/KarthikVarma19/DSA/tree/master/3194-find-words-containing-character) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/KarthikVarma19/DSA/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/KarthikVarma19/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/KarthikVarma19/DSA/tree/master/3447-clear-digits) |
