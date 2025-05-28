@@ -486,6 +486,7 @@ Data Structures &amp; Algorithms
 | [0392-is-subsequence](https://github.com/KarthikVarma19/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/KarthikVarma19/DSA/tree/master/0443-string-compression) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/KarthikVarma19/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0556-next-greater-element-iii](https://github.com/KarthikVarma19/DSA/tree/master/0556-next-greater-element-iii) |
 | [0657-robot-return-to-origin](https://github.com/KarthikVarma19/DSA/tree/master/0657-robot-return-to-origin) |
 | [0720-longest-word-in-dictionary](https://github.com/KarthikVarma19/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/KarthikVarma19/DSA/tree/master/0721-accounts-merge) |
@@ -605,6 +606,7 @@ Data Structures &amp; Algorithms
 | [0392-is-subsequence](https://github.com/KarthikVarma19/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/KarthikVarma19/DSA/tree/master/0443-string-compression) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/KarthikVarma19/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0556-next-greater-element-iii](https://github.com/KarthikVarma19/DSA/tree/master/0556-next-greater-element-iii) |
 | [0611-valid-triangle-number](https://github.com/KarthikVarma19/DSA/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/KarthikVarma19/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0868-push-dominoes](https://github.com/KarthikVarma19/DSA/tree/master/0868-push-dominoes) |
@@ -841,6 +843,7 @@ Data Structures &amp; Algorithms
 | [0273-integer-to-english-words](https://github.com/KarthikVarma19/DSA/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/KarthikVarma19/DSA/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/KarthikVarma19/DSA/tree/master/0371-sum-of-two-integers) |
+| [0556-next-greater-element-iii](https://github.com/KarthikVarma19/DSA/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/KarthikVarma19/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/KarthikVarma19/DSA/tree/master/0650-2-keys-keyboard) |
 | [0795-k-th-symbol-in-grammar](https://github.com/KarthikVarma19/DSA/tree/master/0795-k-th-symbol-in-grammar) |
