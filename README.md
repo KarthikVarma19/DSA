@@ -852,6 +852,7 @@ Data Structures &amp; Algorithms
 | [1477-product-of-the-last-k-numbers](https://github.com/KarthikVarma19/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/KarthikVarma19/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/KarthikVarma19/DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2050-count-good-numbers](https://github.com/KarthikVarma19/DSA/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/KarthikVarma19/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/KarthikVarma19/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2507-number-of-common-factors](https://github.com/KarthikVarma19/DSA/tree/master/2507-number-of-common-factors) |
@@ -932,6 +933,7 @@ Data Structures &amp; Algorithms
 | [0206-reverse-linked-list](https://github.com/KarthikVarma19/DSA/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/KarthikVarma19/DSA/tree/master/0273-integer-to-english-words) |
 | [0795-k-th-symbol-in-grammar](https://github.com/KarthikVarma19/DSA/tree/master/0795-k-th-symbol-in-grammar) |
+| [2050-count-good-numbers](https://github.com/KarthikVarma19/DSA/tree/master/2050-count-good-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
