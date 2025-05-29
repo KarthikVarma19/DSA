@@ -834,6 +834,7 @@ Data Structures &amp; Algorithms
 | [0002-add-two-numbers](https://github.com/KarthikVarma19/DSA/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/KarthikVarma19/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KarthikVarma19/DSA/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/KarthikVarma19/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/KarthikVarma19/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/KarthikVarma19/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KarthikVarma19/DSA/tree/master/0070-climbing-stairs) |
@@ -927,6 +928,7 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KarthikVarma19/DSA/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/KarthikVarma19/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/KarthikVarma19/DSA/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/KarthikVarma19/DSA/tree/master/0273-integer-to-english-words) |
 | [0795-k-th-symbol-in-grammar](https://github.com/KarthikVarma19/DSA/tree/master/0795-k-th-symbol-in-grammar) |
