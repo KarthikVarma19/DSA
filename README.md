@@ -467,6 +467,7 @@ Data Structures &amp; Algorithms
 | [0012-integer-to-roman](https://github.com/KarthikVarma19/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KarthikVarma19/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/KarthikVarma19/DSA/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/KarthikVarma19/DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/KarthikVarma19/DSA/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/KarthikVarma19/DSA/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/KarthikVarma19/DSA/tree/master/0087-scramble-string) |
@@ -730,6 +731,7 @@ Data Structures &amp; Algorithms
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KarthikVarma19/DSA/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/KarthikVarma19/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/KarthikVarma19/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KarthikVarma19/DSA/tree/master/0064-minimum-path-sum) |
@@ -949,6 +951,7 @@ Data Structures &amp; Algorithms
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KarthikVarma19/DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/KarthikVarma19/DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/KarthikVarma19/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/KarthikVarma19/DSA/tree/master/0078-subsets) |
