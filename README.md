@@ -85,6 +85,7 @@ Data Structures &amp; Algorithms
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KarthikVarma19/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/KarthikVarma19/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KarthikVarma19/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/KarthikVarma19/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KarthikVarma19/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KarthikVarma19/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/KarthikVarma19/DSA/tree/master/1524-string-matching-in-an-array) |
@@ -312,6 +313,7 @@ Data Structures &amp; Algorithms
 | [1254-deepest-leaves-sum](https://github.com/KarthikVarma19/DSA/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/KarthikVarma19/DSA/tree/master/1396-count-servers-that-communicate) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/KarthikVarma19/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/KarthikVarma19/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/KarthikVarma19/DSA/tree/master/1731-even-odd-tree) |
@@ -634,6 +636,7 @@ Data Structures &amp; Algorithms
 | [0803-cheapest-flights-within-k-stops](https://github.com/KarthikVarma19/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/KarthikVarma19/DSA/tree/master/0820-find-eventual-safe-states) |
 | [1300-critical-connections-in-a-network](https://github.com/KarthikVarma19/DSA/tree/master/1300-critical-connections-in-a-network) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/KarthikVarma19/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/KarthikVarma19/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KarthikVarma19/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/KarthikVarma19/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
