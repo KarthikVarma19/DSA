@@ -179,6 +179,7 @@ Data Structures &amp; Algorithms
 | [0085-maximal-rectangle](https://github.com/KarthikVarma19/DSA/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/KarthikVarma19/DSA/tree/master/0155-min-stack) |
 | [0654-maximum-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0654-maximum-binary-tree) |
+| [0931-maximum-frequency-stack](https://github.com/KarthikVarma19/DSA/tree/master/0931-maximum-frequency-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KarthikVarma19/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KarthikVarma19/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/KarthikVarma19/DSA/tree/master/1582-design-browser-history) |
@@ -197,6 +198,7 @@ Data Structures &amp; Algorithms
 | [0303-range-sum-query-immutable](https://github.com/KarthikVarma19/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/KarthikVarma19/DSA/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KarthikVarma19/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0931-maximum-frequency-stack](https://github.com/KarthikVarma19/DSA/tree/master/0931-maximum-frequency-stack) |
 | [0969-number-of-recent-calls](https://github.com/KarthikVarma19/DSA/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/KarthikVarma19/DSA/tree/master/1023-time-based-key-value-store) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -435,6 +437,7 @@ Data Structures &amp; Algorithms
 | [0889-buddy-strings](https://github.com/KarthikVarma19/DSA/tree/master/0889-buddy-strings) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KarthikVarma19/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0931-maximum-frequency-stack](https://github.com/KarthikVarma19/DSA/tree/master/0931-maximum-frequency-stack) |
 | [0952-word-subsets](https://github.com/KarthikVarma19/DSA/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/KarthikVarma19/DSA/tree/master/1023-time-based-key-value-store) |
 | [1160-letter-tile-possibilities](https://github.com/KarthikVarma19/DSA/tree/master/1160-letter-tile-possibilities) |
@@ -995,6 +998,7 @@ Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/KarthikVarma19/DSA/tree/master/0493-reverse-pairs) |
+| [0931-maximum-frequency-stack](https://github.com/KarthikVarma19/DSA/tree/master/0931-maximum-frequency-stack) |
 | [2429-design-a-food-rating-system](https://github.com/KarthikVarma19/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/KarthikVarma19/DSA/tree/master/2434-design-a-number-container-system) |
 ## Quickselect
