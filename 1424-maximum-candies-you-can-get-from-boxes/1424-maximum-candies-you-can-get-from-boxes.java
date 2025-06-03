@@ -6,47 +6,29 @@ class Solution {
         int[][] containedBoxes, 
         int[] initialBoxes
     ) {
-        Queue<Integer> q = new LinkedList<>();
+        int count = 0;
         int n = status.length;
-        boolean taken[] = new boolean[n];
-        boolean boxFound[] = new boolean[n];
-        boolean canOpen[] = new boolean[n];
-
+        boolean visited[] = new boolean[n];
+        for(int v: initialBoxes){
+            dfs(v, status, keys, containedBoxes, visited);
+        }
         for(int i = 0; i < n; i++){
-            canOpen[i] = (status[i] == 1);
-        }
-
-        int ans = 0;
-
-        for(int eachBox: initialBoxes){
-            boxFound[eachBox] = true;
-            if(canOpen[eachBox]){
-                q.add(eachBox);
-                taken[eachBox] = true;
-                ans += candies[eachBox];
+            if(visited[i] && status[i] == 1){
+                count += candies[i];
             }
         }
-
-        while(!q.isEmpty()){
-            int bigBox = q.poll();
-            for(int key: keys[bigBox]){
-                canOpen[key] = true;
-                if(!taken[key] && boxFound[key]){
-                    q.add(key);
-                    taken[key] = true;
-                    ans += candies[key];
-                }
-            }
-            for(int box: containedBoxes[bigBox]){
-                boxFound[box] = true;
-                if(!taken[box] && canOpen[box]){
-                    q.add(box);
-                    taken[box] = true;
-                    ans += candies[box];
-                }
+        return count;
+    }
+    public void dfs(int v, int status[], int keys[][], int containedBoxes[][], boolean visited[]){
+        visited[v] = true;
+        for(int vKey: keys[v]){
+            if(vKey == v) continue;
+            status[vKey] = 1;
+        }
+        for(int vContained: containedBoxes[v]){
+            if(!visited[vContained]){
+                dfs(vContained, status, keys, containedBoxes, visited);
             }
         }
-
-        return ans;
     }
 }
