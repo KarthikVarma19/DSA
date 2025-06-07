@@ -186,6 +186,7 @@ Data Structures &amp; Algorithms
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/KarthikVarma19/DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/KarthikVarma19/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/KarthikVarma19/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KarthikVarma19/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/KarthikVarma19/DSA/tree/master/3447-clear-digits) |
 ## Design
 |  |
@@ -466,6 +467,7 @@ Data Structures &amp; Algorithms
 | [2831-number-of-beautiful-pairs](https://github.com/KarthikVarma19/DSA/tree/master/2831-number-of-beautiful-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KarthikVarma19/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/KarthikVarma19/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KarthikVarma19/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KarthikVarma19/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -532,6 +534,7 @@ Data Structures &amp; Algorithms
 | [3194-find-words-containing-character](https://github.com/KarthikVarma19/DSA/tree/master/3194-find-words-containing-character) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/KarthikVarma19/DSA/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/KarthikVarma19/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KarthikVarma19/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/KarthikVarma19/DSA/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/KarthikVarma19/DSA/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KarthikVarma19/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -728,6 +731,7 @@ Data Structures &amp; Algorithms
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/KarthikVarma19/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KarthikVarma19/DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/KarthikVarma19/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KarthikVarma19/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KarthikVarma19/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/KarthikVarma19/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
@@ -817,6 +821,7 @@ Data Structures &amp; Algorithms
 | [2509-minimize-xor](https://github.com/KarthikVarma19/DSA/tree/master/2509-minimize-xor) |
 | [2591-frog-jump-ii](https://github.com/KarthikVarma19/DSA/tree/master/2591-frog-jump-ii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KarthikVarma19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KarthikVarma19/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Sorting
 |  |
 | ------- |
