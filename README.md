@@ -429,6 +429,7 @@ Data Structures &amp; Algorithms
 | [0141-linked-list-cycle](https://github.com/KarthikVarma19/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KarthikVarma19/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/KarthikVarma19/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/KarthikVarma19/DSA/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/KarthikVarma19/DSA/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/KarthikVarma19/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KarthikVarma19/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -491,6 +492,7 @@ Data Structures &amp; Algorithms
 | [0179-largest-number](https://github.com/KarthikVarma19/DSA/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/KarthikVarma19/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/KarthikVarma19/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0242-valid-anagram](https://github.com/KarthikVarma19/DSA/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/KarthikVarma19/DSA/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/KarthikVarma19/DSA/tree/master/0383-ransom-note) |
@@ -830,6 +832,7 @@ Data Structures &amp; Algorithms
 | [0088-merge-sorted-array](https://github.com/KarthikVarma19/DSA/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/KarthikVarma19/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KarthikVarma19/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/KarthikVarma19/DSA/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/KarthikVarma19/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/KarthikVarma19/DSA/tree/master/0502-ipo) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/KarthikVarma19/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
