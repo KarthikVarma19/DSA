@@ -816,6 +816,7 @@ Data Structures &amp; Algorithms
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KarthikVarma19/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/KarthikVarma19/DSA/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1502-construct-k-palindrome-strings](https://github.com/KarthikVarma19/DSA/tree/master/1502-construct-k-palindrome-strings) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/KarthikVarma19/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/KarthikVarma19/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/KarthikVarma19/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/KarthikVarma19/DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -874,6 +875,7 @@ Data Structures &amp; Algorithms
 | [0795-k-th-symbol-in-grammar](https://github.com/KarthikVarma19/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KarthikVarma19/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KarthikVarma19/DSA/tree/master/1477-product-of-the-last-k-numbers) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/KarthikVarma19/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/KarthikVarma19/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/KarthikVarma19/DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/KarthikVarma19/DSA/tree/master/2050-count-good-numbers) |
