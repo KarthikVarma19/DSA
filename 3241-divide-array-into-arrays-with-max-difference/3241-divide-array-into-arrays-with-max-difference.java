@@ -3,9 +3,11 @@ class Solution {
         int n = nums.length;
         Arrays.sort(nums);
         int ans[][] = new int[n/3][3];
-        for(int i = 0; i < nums.length; i++){
+        for(int i = 0; i < nums.length; i+= 3){
             ans[i/3][i%3] = nums[i];
-            if(i%3 == 2 && Math.abs(ans[i/3][0]-ans[i/3][2]) > k){
+            ans[i/3][(i+1)%3] = nums[i+1];
+            ans[i/3][(i+2)%3] = nums[i+2];
+            if(Math.abs(ans[i/3][0]-ans[i/3][2]) > k){
                 return new int[0][0];
             }
         }
