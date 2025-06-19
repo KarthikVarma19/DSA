@@ -111,6 +111,7 @@ Data Structures &amp; Algorithms
 | [2104-operations-on-tree](https://github.com/KarthikVarma19/DSA/tree/master/2104-operations-on-tree) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/KarthikVarma19/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/KarthikVarma19/DSA/tree/master/2107-find-unique-binary-string) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/KarthikVarma19/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KarthikVarma19/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2232-adding-spaces-to-a-string](https://github.com/KarthikVarma19/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KarthikVarma19/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
