@@ -433,6 +433,7 @@ Data Structures &amp; Algorithms
 | [0142-linked-list-cycle-ii](https://github.com/KarthikVarma19/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/KarthikVarma19/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/KarthikVarma19/DSA/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/KarthikVarma19/DSA/tree/master/0299-bulls-and-cows) |
 | [0355-design-twitter](https://github.com/KarthikVarma19/DSA/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/KarthikVarma19/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KarthikVarma19/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -499,6 +500,7 @@ Data Structures &amp; Algorithms
 | [0242-valid-anagram](https://github.com/KarthikVarma19/DSA/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/KarthikVarma19/DSA/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KarthikVarma19/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/KarthikVarma19/DSA/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/KarthikVarma19/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KarthikVarma19/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/KarthikVarma19/DSA/tree/master/0392-is-subsequence) |
@@ -569,6 +571,7 @@ Data Structures &amp; Algorithms
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/KarthikVarma19/DSA/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/KarthikVarma19/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KarthikVarma19/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/KarthikVarma19/DSA/tree/master/0837-most-common-word) |
