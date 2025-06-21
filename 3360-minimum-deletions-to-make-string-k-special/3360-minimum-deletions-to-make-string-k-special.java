@@ -8,8 +8,10 @@ class Solution {
         // if it has not been there make it deleted 
         int min = word.length();
         for(int i = 0; i < 26; i++){
+            if(freq[i] == 0) continue;
             int del = 0;
             for(int j = 0; j < 26; j++){
+                if(freq[j] == 0) continue;
                 if(freq[j] < freq[i]){
                     del += freq[j];
                 }else if(freq[j] > freq[i] + k){
